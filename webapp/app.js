@@ -20,7 +20,7 @@ const books = [
     },
     {
         id: "adam_and_eve",
-        title: "三大祝福",
+        title: "アダムとエバ",
         cover: "./assets/adam_and_eve/images/シーン0−1.jpeg",
         scenes: [
             { id: "0-1", text: "かみさまの こども アダムと エバ 〜かみさまとの おやくそく〜", imagePath: "./assets/adam_and_eve/images/シーン0−1.jpeg", placeholderImage: "https://placehold.co/1280x720/F7E8C3/4A4036?text=Scene+0-1" },
