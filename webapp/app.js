@@ -130,13 +130,58 @@ let isGlobalMuted = false;
 let currentSentenceIndex = 0;
 let currentSceneSentences = [];
 
+// プリロード用キャッシュ
+const preloadedImages = new Map();
+const preloadedVideos = new Map();
+
+// ローディングオーバーレイを作成
+const loadingOverlay = document.createElement('div');
+loadingOverlay.id = 'loading-overlay';
+loadingOverlay.innerHTML = '<div class="loading-spinner"><div class="spinner-dot"></div><div class="spinner-dot"></div><div class="spinner-dot"></div></div><p class="loading-text">よみこみちゅう...</p>';
+loadingOverlay.style.display = 'none';
+bookContainerEl.appendChild(loadingOverlay);
+
+function showLoading() {
+    loadingOverlay.style.display = 'flex';
+}
+function hideLoading() {
+    loadingOverlay.style.display = 'none';
+}
+
 function checkImage(url) {
+    if (!url) return Promise.resolve(false);
+    if (preloadedImages.has(url)) return Promise.resolve(true);
     return new Promise((resolve) => {
         const img = new Image();
-        img.onload = () => resolve(true);
+        img.onload = () => { preloadedImages.set(url, true); resolve(true); };
         img.onerror = () => resolve(false);
         img.src = url;
     });
+}
+
+// 次のシーンの画像・動画を先読みする
+function preloadNextScene(index) {
+    if (!currentBook || !currentBook.scenes) return;
+    const nextIndex = index + 1;
+    if (nextIndex >= currentBook.scenes.length) return;
+    const nextScene = currentBook.scenes[nextIndex];
+
+    // 画像のプリロード
+    if (nextScene.imagePath && !preloadedImages.has(nextScene.imagePath)) {
+        const img = new Image();
+        img.onload = () => preloadedImages.set(nextScene.imagePath, true);
+        img.src = nextScene.imagePath;
+    }
+
+    // 動画のプリロード（fetch APIでバックグラウンドダウンロード）
+    if (nextScene.videoPath && !preloadedVideos.has(nextScene.videoPath)) {
+        const link = document.createElement('link');
+        link.rel = 'prefetch';
+        link.href = nextScene.videoPath;
+        link.as = 'video';
+        document.head.appendChild(link);
+        preloadedVideos.set(nextScene.videoPath, true);
+    }
 }
 
 async function renderScene(index, startFromEnd = false) {
@@ -156,17 +201,34 @@ async function renderScene(index, startFromEnd = false) {
     if (scene.videoPath) {
         sceneImageEl.classList.add('hidden');
         sceneVideoEl.classList.remove('hidden');
+
+        // ローディング表示
+        showLoading();
+        sceneVideoEl.preload = 'auto';
         sceneVideoEl.src = scene.videoPath;
-        sceneVideoEl.muted = isGlobalMuted; // グローバルミュート設定を反映
+        sceneVideoEl.muted = isGlobalMuted;
+
+        // 動画が再生可能になったらローディングを消す
+        const onCanPlay = () => {
+            hideLoading();
+            sceneVideoEl.removeEventListener('canplay', onCanPlay);
+        };
+        sceneVideoEl.addEventListener('canplay', onCanPlay);
         sceneVideoEl.play().catch(e => console.log("Video autoplay blocked", e));
+
+        // 3秒経過してもロード完了しない場合はローディングを消す（フォールバック）
+        setTimeout(() => hideLoading(), 3000);
     } else {
         sceneVideoEl.classList.add('hidden');
         sceneVideoEl.pause();
         sceneImageEl.classList.remove('hidden');
-        
+
+        // ローディング表示
+        showLoading();
         const hasRealImage = await checkImage(scene.imagePath);
         const bgUrl = hasRealImage ? scene.imagePath : scene.placeholderImage;
         sceneImageEl.style.backgroundImage = `url('${bgUrl}')`;
+        hideLoading();
     }
 
     const progressPercent = ((index + 1) / scenes.length) * 100;
@@ -176,6 +238,9 @@ async function renderScene(index, startFromEnd = false) {
     prevBtn.disabled = index === 0 && currentSentenceIndex === 0;
     // 最後のシーンの最後の文ならnextを無効化
     nextBtn.disabled = index === scenes.length - 1 && currentSentenceIndex === currentSceneSentences.length - 1;
+
+    // 次のシーンを先読み
+    preloadNextScene(index);
 }
 
 function renderCurrentSentence() {
@@ -225,6 +290,9 @@ function openBook(bookId) {
     progressContainerEl.classList.remove('hidden');
 
     if (currentBook.scenes && currentBook.scenes.length > 0) {
+        // 最初の2シーンを先読み開始
+        preloadNextScene(-1); // index 0を先読み
+        preloadNextScene(0);  // index 1を先読み
         renderScene(0);
     } else {
         sceneImageEl.style.backgroundImage = `url('${currentBook.cover}')`;
