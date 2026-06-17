@@ -20,7 +20,7 @@ const books = [
     },
     {
         id: "adam_and_eve",
-        title: "アダムとエバ",
+        title: "三大祝福",
         cover: "./assets/adam_and_eve/images/シーン0−1.jpeg",
         scenes: [
             { id: "0-1", text: "かみさまの こども アダムと エバ 〜かみさまとの おやくそく〜", imagePath: "./assets/adam_and_eve/images/シーン0−1.jpeg", placeholderImage: "https://placehold.co/1280x720/F7E8C3/4A4036?text=Scene+0-1" },
@@ -54,7 +54,7 @@ const books = [
     },
     {
         id: "paradise-lost",
-        title: "失楽園（アダムとエバ）",
+        title: "失楽園",
         cover: "https://placehold.co/1280x720/F7E8C3/4A4036?text=Cover",
         scenes: [
             { id: "pl-1", text: "アダム と エバ は、キラキラの 「エデンのその」で なかよく くらしていました。<br>おいしい くだもの が たくさん！<br>「かみさま、すてきな おにわ を ありがとう！」", imagePath: "", videoPath: "", placeholderImage: "https://placehold.co/1280x720/F7E8C3/4A4036?text=Scene+1" },
