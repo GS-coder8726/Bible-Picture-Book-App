@@ -90,7 +90,32 @@ const books = [
             { id: "6-5", text: "ふたりは もう おにわ には もどれません。でも、この あたたかい おようふく は「かみさまは ずっと ふたりが だいすき だよ」という しるし なのです。", imagePath: "", videoPath: "", placeholderImage: "https://placehold.co/1280x720/F7E8C3/4A4036?text=Scene+6-5" }
         ]
     },
-    { id: "cain_and_abel", title: "カインとアベル", cover: "https://placehold.co/1280x720/F7E8C3/F7E8C3", scenes: [] },
+    {
+        id: "cain_and_abel",
+        title: "カインとアベル",
+        cover: "https://placehold.co/1280x720/F7E8C3/4A4036?text=Cover",
+        scenes: [
+            { id: "1-1", text: "エデンの その を でた アダムと エバは、いっしょうけんめい はたらきました。やがて、ふたりに かわいい あかちゃん が うまれました。", imagePath: "", videoPath: "", placeholderImage: "https://placehold.co/1280x720/F7E8C3/4A4036?text=Scene+1-1" },
+            { id: "1-2", text: "おにいちゃんは 「カイン」、おとうとは 「アベル」です。ふたりは ぐんぐん おおきく なりました。", imagePath: "", videoPath: "", placeholderImage: "https://placehold.co/1280x720/F7E8C3/4A4036?text=Scene+1-2" },
+            { id: "1-3", text: "カインは、はたけ で おやさい を そだてる おしごと を しています。アベルは、ひつじさん たちの おせわ を しています。", imagePath: "", videoPath: "", placeholderImage: "https://placehold.co/1280x720/F7E8C3/4A4036?text=Scene+1-3" },
+            { id: "2-1", text: "あるひ、ふたりは「かみさま、ありがとう！」と、プレゼントを することに しました。", imagePath: "", videoPath: "", placeholderImage: "https://placehold.co/1280x720/F7E8C3/4A4036?text=Scene+2-1" },
+            { id: "2-2", text: "アベルは、「かみさま、いつも みまもってくれて ありがとう！」と、いちばん げんきで だいじな ひつじさんを えらびました。", imagePath: "", videoPath: "", placeholderImage: "https://placehold.co/1280x720/F7E8C3/4A4036?text=Scene+2-2" },
+            { id: "2-3", text: "カインは、「とりあえず、はたけ で とれた おやさい を もっていけば いいや」と、あまり こころ を こめずに えらびました。", imagePath: "", videoPath: "", placeholderImage: "https://placehold.co/1280x720/F7E8C3/4A4036?text=Scene+2-3" },
+            { id: "3-1", text: "かみさまは、アベルの 「ありがとう」の こころ が こもった プレゼントを みて、とても よろこびました。", imagePath: "", videoPath: "", placeholderImage: "https://placehold.co/1280x720/F7E8C3/4A4036?text=Scene+3-1" },
+            { id: "3-2", text: "かみさまは、ほんとうは カインの プレゼントも よろこんで うけとりたいと おもっていました。でも、カインの こころ に ありがとうの きもち が なかったので、うけとる ことが できませんでした。", imagePath: "", videoPath: "", placeholderImage: "https://placehold.co/1280x720/F7E8C3/4A4036?text=Scene+3-2" },
+            { id: "3-3", text: "それを みた カインは「どうして アベル ばっかり ほめるんだ！ずるい！」と、した を むいて ひどく おこって しまいました。", imagePath: "", videoPath: "", placeholderImage: "https://placehold.co/1280x720/F7E8C3/4A4036?text=Scene+3-3" },
+            { id: "4-1", text: "かみさまは、やさしく いいました。「カイン、どうして おこっているの？ ただしい こころ を もてば、かお を あげられる はずだよ。わるい こころ に まけては いけないよ。」", imagePath: "", videoPath: "", placeholderImage: "https://placehold.co/1280x720/F7E8C3/4A4036?text=Scene+4-1" },
+            { id: "4-2", text: "でも、カインは かみさまの ことば を ききません。カインの こころ は「アベルなんて いなくなればいいのに」という きもち で いっぱい に なって しまいました。", imagePath: "", videoPath: "", placeholderImage: "https://placehold.co/1280x720/F7E8C3/4A4036?text=Scene+4-2" },
+            { id: "4-3", text: "カインは「アベル、のはら へ いこう」と おとうと を さそいだしました。", imagePath: "", videoPath: "", placeholderImage: "https://placehold.co/1280x720/F7E8C3/4A4036?text=Scene+4-3" },
+            { id: "4-4", text: "そして、だれも いない のはら で、アベルを はげしく ぶって しまったのです。アベルは たおれて、うごかなく なって しまいました。", imagePath: "", videoPath: "", placeholderImage: "https://placehold.co/1280x720/F7E8C3/4A4036?text=Scene+4-4" },
+            { id: "5-1", text: "かみさまが「カイン、おとうとの アベルは どこに いるの？」と ききました。", imagePath: "", videoPath: "", placeholderImage: "https://placehold.co/1280x720/F7E8C3/4A4036?text=Scene+5-1" },
+            { id: "5-2", text: "カインは「わかりません」と、うそ を ついて しまいました。", imagePath: "", videoPath: "", placeholderImage: "https://placehold.co/1280x720/F7E8C3/4A4036?text=Scene+5-2" },
+            { id: "5-3", text: "かみさまは、とっても かなしそうに いいました。「なんという ことを したのです。あなたの した わるい ことは、ぜんぶ わかっています。もう ここには いられません。」", imagePath: "", videoPath: "", placeholderImage: "https://placehold.co/1280x720/F7E8C3/4A4036?text=Scene+5-3" },
+            { id: "6-1", text: "カインは、かぞく から はなれて、とおく へ いく ことに なりました。", imagePath: "", videoPath: "", placeholderImage: "https://placehold.co/1280x720/F7E8C3/4A4036?text=Scene+6-1" },
+            { id: "6-2", text: "とおくへ いく カインに、かみさまは『かみさまが まもっている と わかる とくべつ な マーク』を つけて くれました。", imagePath: "", videoPath: "", placeholderImage: "https://placehold.co/1280x720/F7E8C3/4A4036?text=Scene+6-2" },
+            { id: "6-3", text: "わるい ことを してしまった カインの ことも、かみさまは ほんとうは ずっと あいして、まもって くれていたの です。", imagePath: "", videoPath: "", placeholderImage: "https://placehold.co/1280x720/F7E8C3/4A4036?text=Scene+6-3" }
+        ]
+    },
     { id: "noahs_ark", title: "ノアの箱舟", cover: "https://placehold.co/1280x720/F7E8C3/F7E8C3", scenes: [] },
     { id: "abrahams_departure", title: "アブラハムの旅立ち", cover: "https://placehold.co/1280x720/F7E8C3/F7E8C3", scenes: [] },
     { id: "isaacs_birth", title: "イサクの誕生", cover: "https://placehold.co/1280x720/F7E8C3/F7E8C3", scenes: [] },
