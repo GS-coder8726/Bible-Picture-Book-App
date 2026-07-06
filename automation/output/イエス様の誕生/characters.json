@@ -1,0 +1,45 @@
+{
+  "characters": [
+    {
+      "id": "mary",
+      "name": "マリア",
+      "description": "A kind and gentle young woman, mother of Jesus. Wearing simple, natural earth-tone clothing.",
+      "visual_traits": "Simple character, innocent facial expression, large and expressive eyes, soft rounded features."
+    },
+    {
+      "id": "joseph",
+      "name": "ヨセフ",
+      "description": "A caring man, father of Jesus. Wearing simple, natural earth-tone clothing.",
+      "visual_traits": "Simple character, kind facial expression, soft features."
+    },
+    {
+      "id": "baby_jesus",
+      "name": "赤ちゃんイエス",
+      "description": "The newborn baby Jesus wrapped in simple cloths.",
+      "visual_traits": "Chibi-like proportions, adorable, sleeping peacefully, soft glowing light around him."
+    },
+    {
+      "id": "angel",
+      "name": "天使",
+      "description": "A glowing heavenly messenger with soft wings.",
+      "visual_traits": "Radiant, soft sparkles, gentle smile."
+    },
+    {
+      "id": "shepherds",
+      "name": "羊飼いたち",
+      "description": "Simple shepherds with staffs, wearing rustic clothes.",
+      "visual_traits": "Simple characters, amazed expressions."
+    },
+    {
+      "id": "wise_men",
+      "name": "東方の博士たち",
+      "description": "Three wise men wearing slightly nicer, colorful but soft-toned robes.",
+      "visual_traits": "Holding gifts, soft rounded features."
+    },
+    {
+      "id": "god",
+      "name": "神様",
+      "description": "画像は既存（adam_and_eveのアセット）を流用するため、生成プロンプトには含めません。"
+    }
+  ]
+}

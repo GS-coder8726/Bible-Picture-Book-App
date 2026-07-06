@@ -1,0 +1,120 @@
+{
+  "theme_id": "abrahams_departure",
+  "scenes": [
+    {
+      "id": "0-1",
+      "text": "アブラハムのたびだち",
+      "prompt": "An elderly man named Abram with a long white beard and earth-tone robes, standing with his wife Sarai and nephew Lot, looking towards a distant beautiful horizon. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere, warm and cozy. Simple characters with innocent facial expressions, large and expressive eyes."
+    },
+    {
+      "id": "1-1",
+      "text": "むかしむかし、アブラムという おじいさんが いました。",
+      "prompt": "An elderly man named Abram with a long white beard and earth-tone robes, holding a wooden shepherd's staff, standing peacefully in a lush green field. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere, warm and cozy. Simple characters with innocent facial expressions, large and expressive eyes."
+    },
+    {
+      "id": "1-4",
+      "text": "「そうすれば、あなたを おおきな くにに します。」",
+      "prompt": "An elderly man named Abram with a long white beard, looking up at a bright, glowing sky with a hopeful and amazed expression. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere, warm and cozy. Simple characters with innocent facial expressions, large and expressive eyes."
+    },
+    {
+      "id": "2-1",
+      "text": "アブラムは、かみさまの ことばを しんじました。",
+      "prompt": "An elderly man named Abram with a long white beard, closing his eyes peacefully with his hands on his heart, showing faith. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere, warm and cozy. Simple characters with innocent facial expressions, large and expressive eyes."
+    },
+    {
+      "id": "2-2",
+      "text": "おくさんの サライに いいました。<br>「かみさまが おっしゃる 土地へ いこう！」",
+      "prompt": "An elderly man named Abram talking excitedly to his wife Sarai, an elderly woman with a gentle smile and a simple veil. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere, warm and cozy. Simple characters with innocent facial expressions, large and expressive eyes."
+    },
+    {
+      "id": "2-3",
+      "text": "おいの ロトも いっしょに いくことに なりました。",
+      "prompt": "A young energetic man named Lot, wearing a simple tunic, smiling and nodding in agreement next to Abram. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere, warm and cozy. Simple characters with innocent facial expressions, large and expressive eyes."
+    },
+    {
+      "id": "2-4",
+      "text": "みんなで にもつを まとめて、たびの じゅんびを します。",
+      "prompt": "Abram, Sarai, and Lot packing their belongings into simple woven baskets and bags, getting ready for a long journey. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere, warm and cozy. Simple characters with innocent facial expressions, large and expressive eyes."
+    },
+    {
+      "id": "3-1",
+      "text": "たくさんの ひつじや うしも いっしょです。",
+      "prompt": "A peaceful flock of fluffy sheep and a few cows grazing in a field, ready to travel. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere, warm and cozy."
+    },
+    {
+      "id": "3-2",
+      "text": "アブラムたちは、とおくを めざして あるきだしました。",
+      "prompt": "Abram leading a caravan of his family, sheep, and camels, walking towards a distant landscape. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere, warm and cozy. Simple characters with innocent facial expressions, large and expressive eyes."
+    },
+    {
+      "id": "3-3",
+      "text": "どこへ いくのか、まだ わかりません。",
+      "prompt": "Abram looking out at a vast, beautiful unknown landscape with rolling hills and a winding path. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere, warm and cozy. Simple characters with innocent facial expressions, large and expressive eyes."
+    },
+    {
+      "id": "3-4",
+      "text": "でも、アブラムは かみさまを しんじて いました。",
+      "prompt": "Abram walking confidently with a gentle smile, glowing golden light guiding his path. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere, warm and cozy. Simple characters with innocent facial expressions, large and expressive eyes."
+    },
+    {
+      "id": "3-5",
+      "text": "てんとを はって、よるは ぐっすり ねむりました。",
+      "prompt": "A simple ancient tent under a beautiful starry night sky, soft warm light glowing from inside. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere, warm and cozy."
+    },
+    {
+      "id": "4-1",
+      "text": "あつい さばくの みちも ありました。",
+      "prompt": "Abram and his caravan walking through a sandy desert with a bright, warm sun in the sky. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere, warm and cozy. Simple characters with innocent facial expressions, large and expressive eyes."
+    },
+    {
+      "id": "4-2",
+      "text": "おおきな やまも こえました。",
+      "prompt": "Abram and his family walking up a winding path on a large, majestic mountain. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere, warm and cozy. Simple characters with innocent facial expressions, large and expressive eyes."
+    },
+    {
+      "id": "4-3",
+      "text": "かみさまは いつも アブラムたちを まもって くれました。",
+      "prompt": "Abram and his family surrounded by a gentle, protective magical glowing light from above. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere, warm and cozy. Simple characters with innocent facial expressions, large and expressive eyes."
+    },
+    {
+      "id": "4-4",
+      "text": "ときどき、みずが なくて こまった ことも ありました。",
+      "prompt": "Abram looking thirsty but hopeful near an empty well in a dry landscape. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere, warm and cozy. Simple characters with innocent facial expressions, large and expressive eyes."
+    },
+    {
+      "id": "5-2",
+      "text": "「あなたの こどもたちは、この ほしのように たくさんになるよ。」",
+      "prompt": "A breathtaking view of a sky filled with countless sparkling, glowing stars, with Abram looking up in wonder. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere, warm and cozy. Simple characters with innocent facial expressions, large and expressive eyes."
+    },
+    {
+      "id": "5-3",
+      "text": "アブラムは、おどろいて ほしぞらを みあげました。",
+      "prompt": "Close up of Abram's face, his eyes wide with wonder, reflecting the light of a million stars. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere, warm and cozy. Simple characters with innocent facial expressions, large and expressive eyes."
+    },
+    {
+      "id": "5-4",
+      "text": "「かみさま、ありがとうございます。」",
+      "prompt": "Abram praying with a happy, grateful smile under the starry night sky. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere, warm and cozy. Simple characters with innocent facial expressions, large and expressive eyes."
+    },
+    {
+      "id": "6-1",
+      "text": "ながい ながい たびを つづけました。",
+      "prompt": "The caravan traveling across a beautiful landscape transitioning from desert to green fields. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere, warm and cozy. Simple characters with innocent facial expressions, large and expressive eyes."
+    },
+    {
+      "id": "6-2",
+      "text": "そして ついに、カナンの 土地に つきました。",
+      "prompt": "Abram and his family arriving at a lush, beautiful green valley with a river, the promised land of Canaan. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere, warm and cozy. Simple characters with innocent facial expressions, large and expressive eyes."
+    },
+    {
+      "id": "6-3",
+      "text": "「ここが、かみさまの やくそくの 土地だ！」",
+      "prompt": "Abram raising his arms in joy and relief, looking at the beautiful promised land. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere, warm and cozy. Simple characters with innocent facial expressions, large and expressive eyes."
+    },
+    {
+      "id": "6-4",
+      "text": "アブラムは、かみさまに ありがとうのおいのりを しました。",
+      "prompt": "Abram kneeling down in the lush green grass, praying with deep gratitude, surrounded by a soft heavenly glow. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere, warm and cozy. Simple characters with innocent facial expressions, large and expressive eyes."
+    }
+  ]
+}

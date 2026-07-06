@@ -1,0 +1,33 @@
+{
+    id: "isaacs_birth",
+    title: "イサクの誕生",
+    cover: "./assets/isaacs_birth/images/シーン0−1.jpeg",
+    scenes: [
+        { id: "0-1", text: "イサクのたんじょう", imagePath: "./assets/isaacs_birth/images/シーン0−1.jpeg", is_video: true, videoPath: "./assets/isaacs_birth/videos/シーン0−1.mp4", placeholderImage: "" },
+        { id: "1-1", text: "むかしむかし、アブラハムと サラという ふうふが いました。", imagePath: "./assets/isaacs_birth/images/シーン1−1.jpeg", is_video: false, placeholderImage: "" },
+        { id: "1-2", text: "ふたりは とても なかよしでしたが、<br>こどもが いませんでした。", imagePath: "./assets/isaacs_birth/images/シーン1−2.jpeg", is_video: true, videoPath: "./assets/isaacs_birth/videos/シーン1−2.mp4", placeholderImage: "" },
+        { id: "1-3", text: "「わたしたちにも、あかちゃんが ほしいね」", imagePath: "./assets/isaacs_birth/images/シーン1−3.jpeg", is_video: false, placeholderImage: "" },
+        { id: "1-4", text: "おじいさんと おばあさんに なっても、<br>ずっと おいのりしていました。", imagePath: "./assets/isaacs_birth/images/シーン1−4.jpeg", is_video: true, videoPath: "./assets/isaacs_birth/videos/シーン1−4.mp4", placeholderImage: "" },
+        { id: "2-1", text: "あるひ、かみさまが アブラハムに はなしかけました。", imagePath: "./assets/adam_and_eve/images/シーン1−2.jpeg", is_video: false, placeholderImage: "" },
+        { id: "2-2", text: "「そらの ほしを みてごらん。<br>あなたの こどもは、あの ほしのように おおくなるよ」", imagePath: "./assets/isaacs_birth/images/シーン2−2.jpeg", is_video: true, videoPath: "./assets/isaacs_birth/videos/シーン2−2.mp4", placeholderImage: "" },
+        { id: "2-3", text: "アブラハムは、かみさまの ことばを しんじました。", imagePath: "./assets/isaacs_birth/images/シーン2−3.jpeg", is_video: true, videoPath: "./assets/isaacs_birth/videos/シーン2−3.mp4", placeholderImage: "" },
+        { id: "2-4", text: "でも、サラは 「ほんとうかな？」と ふしぎに おもいました。", imagePath: "./assets/isaacs_birth/images/シーン2−4.jpeg", is_video: false, placeholderImage: "" },
+        { id: "3-1", text: "あつい なつの ひ、さんにんの おきゃくさまが やってきました。", imagePath: "./assets/isaacs_birth/images/シーン3−1.jpeg", is_video: true, videoPath: "./assets/isaacs_birth/videos/シーン3−1.mp4", placeholderImage: "" },
+        { id: "3-2", text: "アブラハムは、おいしい パンと ミルクで<br>おもてなしを しました。", imagePath: "./assets/isaacs_birth/images/シーン3−2.jpeg", is_video: true, videoPath: "./assets/isaacs_birth/videos/シーン3−2.mp4", placeholderImage: "" },
+        { id: "3-3", text: "おきゃくさまは、「らいねんの いまごろ、<br>サラに あかちゃんが うまれるよ」と いいました。", imagePath: "./assets/isaacs_birth/images/シーン3−3.jpeg", is_video: false, placeholderImage: "" },
+        { id: "3-4", text: "それは、かみさまからの おしらせでした。", imagePath: "./assets/adam_and_eve/images/シーン1−2.jpeg", is_video: false, placeholderImage: "" },
+        { id: "4-1", text: "テントの なかで きいていた サラは、<br>おもわず わらってしまいました。", imagePath: "./assets/isaacs_birth/images/シーン4−1.jpeg", is_video: true, videoPath: "./assets/isaacs_birth/videos/シーン4−1.mp4", placeholderImage: "" },
+        { id: "4-2", text: "「こんなに おばあさんなのに、あかちゃんが うまれるはず ないわ」", imagePath: "./assets/isaacs_birth/images/シーン4−2.jpeg", is_video: false, placeholderImage: "" },
+        { id: "4-3", text: "かみさまは、「なぜ わらうのですか。<br>かみさまに できない ことは ありません」と いいました。", imagePath: "./assets/adam_and_eve/images/シーン1−2.jpeg", is_video: false, placeholderImage: "" },
+        { id: "4-4", text: "サラは びっくりして、「わらっていません」と いってしまいました。", imagePath: "./assets/isaacs_birth/images/シーン4−4.jpeg", is_video: false, placeholderImage: "" },
+        { id: "5-1", text: "そして らいねんになり、やくそくの 季節が きました。", imagePath: "./assets/isaacs_birth/images/シーン5−1.jpeg", is_video: false, placeholderImage: "" },
+        { id: "5-2", text: "なんと、ほんとうに サラに おとこのこが うまれたのです！", imagePath: "./assets/isaacs_birth/images/シーン5−2.jpeg", is_video: true, videoPath: "./assets/isaacs_birth/videos/シーン5−2.mp4", placeholderImage: "" },
+        { id: "5-3", text: "ふたりは、あかちゃんを ぎゅっと だきしめました。", imagePath: "./assets/isaacs_birth/images/シーン5−3.jpeg", is_video: false, placeholderImage: "" },
+        { id: "5-4", text: "なまえは「イサク」と なづけられました。", imagePath: "./assets/isaacs_birth/images/シーン5−4.jpeg", is_video: true, videoPath: "./assets/isaacs_birth/videos/シーン5−4.mp4", placeholderImage: "" },
+        { id: "5-5", text: "イサクとは、「わらい」という いみです。", imagePath: "./assets/isaacs_birth/images/シーン5−5.jpeg", is_video: false, placeholderImage: "" },
+        { id: "6-1", text: "テントの まわりは、みんなの えがおで いっぱいになりました。", imagePath: "./assets/isaacs_birth/images/シーン6−1.jpeg", is_video: true, videoPath: "./assets/isaacs_birth/videos/シーン6−1.mp4", placeholderImage: "" },
+        { id: "6-2", text: "「かみさま、すばらしい おくりものを ありがとうございます」", imagePath: "./assets/isaacs_birth/images/シーン6−2.jpeg", is_video: false, placeholderImage: "" },
+        { id: "6-3", text: "サラは うれしくて、もういちど わらいました。", imagePath: "./assets/isaacs_birth/images/シーン6−3.jpeg", is_video: true, videoPath: "./assets/isaacs_birth/videos/シーン6−3.mp4", placeholderImage: "" },
+        { id: "6-4", text: "かみさまの やくそくは、かならず かなうのです。", imagePath: "./assets/adam_and_eve/images/シーン1−2.jpeg", is_video: false, placeholderImage: "" }
+    ]
+}

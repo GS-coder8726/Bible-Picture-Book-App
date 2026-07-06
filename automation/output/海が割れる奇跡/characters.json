@@ -1,0 +1,27 @@
+{
+  "characters": [
+    {
+      "id": "moses",
+      "name": "モーセ (Moses)",
+      "description": "Leader of the Israelites. Older man with a long grey beard, holding a wooden staff, wearing simple earth-tone robes.",
+      "visual_traits": "older man, long white beard, holding a wooden staff, simple brown robes, soft features, large expressive eyes, innocent expression"
+    },
+    {
+      "id": "israelites",
+      "name": "イスラエルの人々 (Israelites)",
+      "description": "A group of people, including children and animals, fleeing Egypt.",
+      "visual_traits": "group of people, men, women, children, simple natural clothing, chibi-like proportions for children, holding small bundles"
+    },
+    {
+      "id": "egyptian_army",
+      "name": "エジプトの軍隊 (Egyptian Army)",
+      "description": "Pharaoh's army chasing the Israelites. Riding chariots, wearing simple ancient Egyptian armor.",
+      "visual_traits": "soldiers riding wooden chariots, simple ancient armor, horses, looking fierce but not too scary (suitable for kids)"
+    },
+    {
+      "id": "god",
+      "name": "神様 (God)",
+      "description": "神様単独のシーンは既存画像（adam_and_eve のアセット）を流用するため、新たな画像生成やプロンプトの作成は不要です。"
+    }
+  ]
+}

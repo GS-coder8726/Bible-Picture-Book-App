@@ -1,0 +1,28 @@
+{
+  "theme_id": "exodus",
+  "characters": [
+    {
+      "id": "moses",
+      "name": "モーセ",
+      "description": "いすらえるの ひとたちを 助け出すリーダー。優しく勇敢な男性。",
+      "visual_traits": "A kind and brave man, wearing simple earth-tone clothes, holding a wooden staff, simple innocent facial expression, large expressive eyes"
+    },
+    {
+      "id": "pharaoh",
+      "name": "ファラオ",
+      "description": "エジプトの王様。少し怒りっぽい。",
+      "visual_traits": "An Egyptian king, wearing a simple pharaoh crown and white and gold clothes, slightly angry expression, large expressive eyes"
+    },
+    {
+      "id": "israelites",
+      "name": "いすらえるの人々",
+      "description": "エジプトで働いていた人々。モーセについていく。",
+      "visual_traits": "Groups of simple people wearing earth-tone clothes, men, women, and children with large expressive eyes"
+    },
+    {
+      "id": "god",
+      "name": "神様",
+      "description": "※既存画像（adam_and_eve のアセット）を流用するため新規生成不要"
+    }
+  ]
+}

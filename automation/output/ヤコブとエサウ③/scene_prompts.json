@@ -1,0 +1,107 @@
+[
+  {
+    "scene_id": "0-1",
+    "prompt": "Jacob and Esau, two adult brothers, hugging each other with happy tears, surrounded by soft glowing light, beautiful grassy field, watercolor style illustration, soft pastel colors, hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere, simple characters with innocent facial expressions, large and expressive eyes",
+    "is_video": true
+  },
+  {
+    "scene_id": "1-1",
+    "prompt": "Jacob standing in a beautiful wide grassy field, many cute fluffy sheep and camels resting peacefully around him, small simple tents in the background, watercolor style illustration, soft pastel colors, hand-drawn texture, warm and gentle lighting, glowing light particles, dreamlike atmosphere",
+    "is_video": false
+  },
+  {
+    "scene_id": "1-4",
+    "prompt": "Jacob walking forward with determination, holding a wooden walking stick, a long path leading towards mountains in the distance, warm sunrise lighting, watercolor style illustration, soft pastel colors, hand-drawn texture, glowing light particles, dreamlike atmosphere",
+    "is_video": true
+  },
+  {
+    "scene_id": "2-1",
+    "prompt": "Jacob looking slightly worried and scared, standing alone under a starry night sky, looking towards the horizon, watercolor style illustration, soft pastel colors, hand-drawn texture, gentle moonlight, glowing light particles, soft sparkles, dreamlike atmosphere",
+    "is_video": false
+  },
+  {
+    "scene_id": "2-2",
+    "prompt": "Jacob preparing gifts, tying a ribbon around a wooden crate, gentle smile on his face, watercolor style illustration, soft pastel colors, hand-drawn texture, warm and gentle lighting, glowing light particles, dreamlike atmosphere",
+    "is_video": true
+  },
+  {
+    "scene_id": "2-3",
+    "prompt": "A cute flock of fluffy sheep, goats, and baby camels walking together in a line, led by a helper in simple clothes, watercolor style illustration, soft pastel colors, hand-drawn texture, warm daylight, glowing light particles, soft sparkles, dreamlike atmosphere",
+    "is_video": true
+  },
+  {
+    "scene_id": "3-1",
+    "prompt": "Jacob kneeling alone by a gentle river under a beautiful starry night sky, his hands clasped together in prayer, watercolor style illustration, soft pastel colors, hand-drawn texture, gentle moonlight, glowing light particles, dreamlike atmosphere",
+    "is_video": false
+  },
+  {
+    "scene_id": "3-2",
+    "prompt": "Close-up of Jacob's face, his eyes closed in earnest prayer, gentle expression, starry sky background, watercolor style illustration, soft pastel colors, hand-drawn texture, gentle moonlight, glowing light particles, soft sparkles, dreamlike atmosphere",
+    "is_video": true
+  },
+  {
+    "scene_id": "3-3",
+    "prompt": "A mysterious majestic person wrapped in soft glowing light appearing before Jacob by the river at night, watercolor style illustration, soft pastel colors, hand-drawn texture, glowing light particles, soft sparkles, dreamlike atmosphere",
+    "is_video": false
+  },
+  {
+    "scene_id": "3-4",
+    "prompt": "Jacob and the mysterious glowing person wrestling playfully but earnestly near the river, dynamic yet gentle movement, soft moonlight, watercolor style illustration, soft pastel colors, hand-drawn texture, glowing light particles, soft sparkles, dreamlike atmosphere",
+    "is_video": true
+  },
+  {
+    "scene_id": "4-1",
+    "prompt": "Esau walking towards the camera from a distance in a beautiful morning landscape, followed by silhouettes of many people, warm sunrise light, watercolor style illustration, soft pastel colors, hand-drawn texture, glowing light particles, dreamlike atmosphere",
+    "is_video": false
+  },
+  {
+    "scene_id": "4-2",
+    "prompt": "Jacob stepping forward nervously, looking ahead with wide expressive eyes, his heart pounding, warm morning light, watercolor style illustration, soft pastel colors, hand-drawn texture, glowing light particles, dreamlike atmosphere",
+    "is_video": true
+  },
+  {
+    "scene_id": "4-3",
+    "prompt": "Jacob bowing down deeply in a green field, showing respect, Esau approaching gently in the background, watercolor style illustration, soft pastel colors, hand-drawn texture, warm daylight, glowing light particles, dreamlike atmosphere",
+    "is_video": false
+  },
+  {
+    "scene_id": "5-1",
+    "prompt": "Esau running joyfully towards Jacob across a beautiful green meadow, arms wide open, smiling warmly, watercolor style illustration, soft pastel colors, hand-drawn texture, warm daylight, glowing light particles, dreamlike atmosphere",
+    "is_video": true
+  },
+  {
+    "scene_id": "5-2",
+    "prompt": "Esau tightly hugging Jacob, both brothers smiling with their eyes closed in relief and happiness, watercolor style illustration, soft pastel colors, hand-drawn texture, warm daylight, glowing light particles, soft sparkles, dreamlike atmosphere",
+    "is_video": true
+  },
+  {
+    "scene_id": "5-3",
+    "prompt": "Close-up of Jacob and Esau crying happy tears, large expressive eyes filled with emotion, smiling brightly at each other, watercolor style illustration, soft pastel colors, hand-drawn texture, warm daylight, glowing light particles, soft sparkles, dreamlike atmosphere",
+    "is_video": true
+  },
+  {
+    "scene_id": "5-4",
+    "prompt": "Esau patting Jacob's shoulder gently, a kind and forgiving smile on Esau's face, watercolor style illustration, soft pastel colors, hand-drawn texture, warm daylight, glowing light particles, dreamlike atmosphere",
+    "is_video": false
+  },
+  {
+    "scene_id": "6-1",
+    "prompt": "Jacob happily presenting a cute baby sheep as a gift to Esau, Esau looking surprised and delighted, watercolor style illustration, soft pastel colors, hand-drawn texture, warm daylight, glowing light particles, dreamlike atmosphere",
+    "is_video": true
+  },
+  {
+    "scene_id": "6-2",
+    "prompt": "Esau holding the baby sheep with a big happy smile, Jacob smiling beside him, watercolor style illustration, soft pastel colors, hand-drawn texture, warm daylight, glowing light particles, soft sparkles, dreamlike atmosphere",
+    "is_video": false
+  },
+  {
+    "scene_id": "6-4",
+    "prompt": "Jacob's family, including women and cute children with chibi-like proportions, smiling happily and feeling relieved in the background, watercolor style illustration, soft pastel colors, hand-drawn texture, warm daylight, glowing light particles, dreamlike atmosphere",
+    "is_video": false
+  },
+  {
+    "scene_id": "6-5",
+    "prompt": "Jacob and Esau walking away together side by side, their arms around each other's shoulders, walking into a beautiful sunset landscape, watercolor style illustration, soft pastel colors, hand-drawn texture, warm sunset lighting, glowing light particles, soft sparkles, dreamlike atmosphere",
+    "is_video": true
+  }
+]

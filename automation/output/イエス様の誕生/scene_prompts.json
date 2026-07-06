@@ -1,0 +1,134 @@
+{
+  "scenes": [
+    {
+      "id": "0-1",
+      "prompt": "Mary, Joseph, and a newborn baby wrapped in cloths lying in a manger in a wooden stable, soft glowing star light shining down from above, warm and cozy. Watercolor style illustration, soft pastel colors, hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere, simple characters with innocent facial expressions, large and expressive eyes, soft rounded features --ar 16:9 --stylize 100 --niji 6",
+      "is_video": false
+    },
+    {
+      "id": "1-1",
+      "prompt": "A young gentle woman named Mary wearing simple natural earth-tone clothing, smiling warmly, standing in a peaceful rustic village. Watercolor style illustration, soft pastel colors, hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere, simple characters with innocent facial expressions, large and expressive eyes --ar 16:9 --stylize 100 --niji 6",
+      "is_video": true
+    },
+    {
+      "id": "1-2",
+      "prompt": "A glowing heavenly angel with soft white wings appearing before Mary, radiant soft sparkles, gentle smile. Watercolor style illustration, soft pastel colors, hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere, simple characters with innocent facial expressions --ar 16:9 --stylize 100 --niji 6",
+      "is_video": false
+    },
+    {
+      "id": "1-3",
+      "prompt": "Mary and Joseph packing a small bundle, preparing for a journey. Watercolor style illustration, soft pastel colors, hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere, simple characters with innocent facial expressions --ar 16:9 --stylize 100 --niji 6",
+      "is_video": false
+    },
+    {
+      "id": "1-4",
+      "prompt": "Mary riding a cute donkey, Joseph walking gently beside them on a path at night. Watercolor style illustration, soft pastel colors, hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere, simple characters with innocent facial expressions --ar 16:9 --stylize 100 --niji 6",
+      "is_video": true
+    },
+    {
+      "id": "1-5",
+      "prompt": "Mary and Joseph arriving at the rustic town of Bethlehem at night. Watercolor style illustration, soft pastel colors, hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere, simple characters with innocent facial expressions --ar 16:9 --stylize 100 --niji 6",
+      "is_video": false
+    },
+    {
+      "id": "2-1",
+      "prompt": "The streets of Bethlehem crowded with simple people, no empty houses. Watercolor style illustration, soft pastel colors, hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere, simple characters --ar 16:9 --stylize 100 --niji 6",
+      "is_video": true
+    },
+    {
+      "id": "2-2",
+      "prompt": "Mary and Joseph looking worried, holding hands in the busy street. Watercolor style illustration, soft pastel colors, hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere, simple characters --ar 16:9 --stylize 100 --niji 6",
+      "is_video": false
+    },
+    {
+      "id": "2-3",
+      "prompt": "A kind innkeeper pointing towards a wooden stable. Watercolor style illustration, soft pastel colors, hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere, simple characters --ar 16:9 --stylize 100 --niji 6",
+      "is_video": false
+    },
+    {
+      "id": "2-4",
+      "prompt": "Mary and Joseph walking towards a cozy wooden stable, feeling relieved. Watercolor style illustration, soft pastel colors, hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere, simple characters --ar 16:9 --stylize 100 --niji 6",
+      "is_video": true
+    },
+    {
+      "id": "3-1",
+      "prompt": "A beautiful starry night sky with one extra bright star shining over a stable. Watercolor style illustration, soft pastel colors, hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere --ar 16:9 --stylize 100 --niji 6",
+      "is_video": true
+    },
+    {
+      "id": "3-2",
+      "prompt": "A newborn baby wrapped in simple cloths, glowing softly inside the stable. Watercolor style illustration, soft pastel colors, hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere, chibi-like proportions --ar 16:9 --stylize 100 --niji 6",
+      "is_video": false
+    },
+    {
+      "id": "3-3",
+      "prompt": "Mary gently hugging the newborn baby Jesus, Joseph smiling warmly next to her. Watercolor style illustration, soft pastel colors, hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere, simple characters --ar 16:9 --stylize 100 --niji 6",
+      "is_video": true
+    },
+    {
+      "id": "3-4",
+      "prompt": "Baby Jesus sleeping peacefully on hay in a wooden manger. Watercolor style illustration, soft pastel colors, hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere --ar 16:9 --stylize 100 --niji 6",
+      "is_video": false
+    },
+    {
+      "id": "3-5",
+      "prompt": "Cute cow and donkey looking gently at the baby Jesus in the manger. Watercolor style illustration, soft pastel colors, hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere --ar 16:9 --stylize 100 --niji 6",
+      "is_video": true
+    },
+    {
+      "id": "4-1",
+      "prompt": "Simple shepherds holding wooden staffs with cute sheep in a night field. Watercolor style illustration, soft pastel colors, hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere --ar 16:9 --stylize 100 --niji 6",
+      "is_video": false
+    },
+    {
+      "id": "4-2",
+      "prompt": "A radiant glowing angel appearing in the sky above the shepherds, bright light. Watercolor style illustration, soft pastel colors, hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere --ar 16:9 --stylize 100 --niji 6",
+      "is_video": true
+    },
+    {
+      "id": "4-3",
+      "prompt": "The angel pointing happily towards a bright star in the distance. Watercolor style illustration, soft pastel colors, hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere --ar 16:9 --stylize 100 --niji 6",
+      "is_video": false
+    },
+    {
+      "id": "4-4",
+      "prompt": "Shepherds running excitedly towards the stable. Watercolor style illustration, soft pastel colors, hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere --ar 16:9 --stylize 100 --niji 6",
+      "is_video": true
+    },
+    {
+      "id": "5-1",
+      "prompt": "Three wise men looking up amazed at a giant glowing star in the night sky. Watercolor style illustration, soft pastel colors, hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere --ar 16:9 --stylize 100 --niji 6",
+      "is_video": false
+    },
+    {
+      "id": "5-2",
+      "prompt": "Three wise men riding cute camels across the desert at night following the star. Watercolor style illustration, soft pastel colors, hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere --ar 16:9 --stylize 100 --niji 6",
+      "is_video": true
+    },
+    {
+      "id": "5-3",
+      "prompt": "The glowing star shining a beam of soft light directly onto the wooden stable. Watercolor style illustration, soft pastel colors, hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere --ar 16:9 --stylize 100 --niji 6",
+      "is_video": false
+    },
+    {
+      "id": "6-1",
+      "prompt": "Mary, Joseph, shepherds, and wise men gathered around baby Jesus in the stable. Watercolor style illustration, soft pastel colors, hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere --ar 16:9 --stylize 100 --niji 6",
+      "is_video": false
+    },
+    {
+      "id": "6-2",
+      "prompt": "The wise men presenting beautiful small gifts to the baby Jesus. Watercolor style illustration, soft pastel colors, hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere --ar 16:9 --stylize 100 --niji 6",
+      "is_video": true
+    },
+    {
+      "id": "6-3",
+      "prompt": "Everyone smiling happily around the baby, warm and cozy atmosphere. Watercolor style illustration, soft pastel colors, hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere --ar 16:9 --stylize 100 --niji 6",
+      "is_video": false
+    },
+    {
+      "id": "6-5",
+      "prompt": "The inside of the stable filled with warm, beautiful, glowing light, feeling of love and peace. Watercolor style illustration, soft pastel colors, hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere --ar 16:9 --stylize 100 --niji 6",
+      "is_video": true
+    }
+  ]
+}

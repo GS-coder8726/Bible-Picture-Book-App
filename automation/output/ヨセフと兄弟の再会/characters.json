@@ -1,0 +1,41 @@
+{
+  "characters": [
+    {
+      "id": "joseph_adult",
+      "name": "ヨセフ（大人）",
+      "description": "エジプトの偉い人。豪華だがシンプルな装飾の服を着ている。",
+      "features": [
+        "simple character",
+        "innocent facial expression",
+        "large expressive eyes",
+        "wearing elegant but simple ancient Egyptian style earthy clothing"
+      ]
+    },
+    {
+      "id": "brothers",
+      "name": "お兄さんたち（代表してユダなど数人）",
+      "description": "ヨセフの兄たち。素朴で少し疲れた旅の服。",
+      "features": [
+        "simple characters",
+        "innocent facial expressions",
+        "large expressive eyes",
+        "wearing simple ancient middle eastern earth-tone travel clothing",
+        "some with simple beards"
+      ]
+    },
+    {
+      "id": "benjamin",
+      "name": "ベニヤミン",
+      "description": "一番下の弟。小柄で可愛らしい。",
+      "features": [
+        "simple character",
+        "innocent facial expression",
+        "large expressive eyes",
+        "wearing simple earth-tone clothing",
+        "chibi-like proportions",
+        "cute boy"
+      ]
+    }
+  ],
+  "note": "神様は新規に生成せず、既存のアセット（adam_and_eve）から流用します。"
+}

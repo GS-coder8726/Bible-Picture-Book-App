@@ -1,0 +1,33 @@
+{
+    id: "crucifixion",
+    title: "じゅうじかと ふっかつ",
+    cover: "./assets/crucifixion/images/シーン0−1.jpeg",
+    scenes: [
+        { id: "0-1", text: "じゅうじかと ふっかつ", imagePath: "./assets/crucifixion/videos/シーン0−1.mp4", is_video: true, placeholderImage: "./assets/crucifixion/images/シーン0−1.jpeg" },
+        { id: "1-1", text: "イエスさまと おともだちが<br>ごはんを たべています。", imagePath: "./assets/crucifixion/images/シーン1−1.jpeg", is_video: false, placeholderImage: "" },
+        { id: "1-2", text: "「これは わたしの からだと ちです。<br>みんなを あいしているよ。」", imagePath: "./assets/crucifixion/images/シーン1−2.jpeg", is_video: false, placeholderImage: "" },
+        { id: "1-3", text: "イエスさまは おやまの うえで<br>おいのりしました。", imagePath: "./assets/crucifixion/videos/シーン1−3.mp4", is_video: true, placeholderImage: "./assets/crucifixion/images/シーン1−3.jpeg" },
+        { id: "1-4", text: "かみさまは そらから<br>イエスさまを みまもっていました。", imagePath: "./assets/adam_and_eve/images/シーン1−2.jpeg", is_video: false, placeholderImage: "" },
+        { id: "1-5", text: "そこへ、わるいひとたちが<br>イエスさまを つかまえに きました。", imagePath: "./assets/crucifixion/videos/シーン1−5.mp4", is_video: true, placeholderImage: "./assets/crucifixion/images/シーン1−5.jpeg" },
+        { id: "2-1", text: "「このひとは わるいひとだ！」と<br>ひとびとが おこっています。", imagePath: "./assets/crucifixion/images/シーン2−1.jpeg", is_video: false, placeholderImage: "" },
+        { id: "2-2", text: "イエスさまは わるいことを していないのに、<br>じっと がまんしました。", imagePath: "./assets/crucifixion/images/シーン2−2.jpeg", is_video: false, placeholderImage: "" },
+        { id: "2-3", text: "イエスさまは おもい じゅうじかを<br>せおって あるきます。", imagePath: "./assets/crucifixion/videos/シーン2−3.mp4", is_video: true, placeholderImage: "./assets/crucifixion/images/シーン2−3.jpeg" },
+        { id: "2-4", text: "とても いたいけれど、<br>みんなの ために がんばりました。", imagePath: "./assets/crucifixion/images/シーン2−4.jpeg", is_video: false, placeholderImage: "" },
+        { id: "3-1", text: "イエスさまは じゅうじかに<br>かけられました。", imagePath: "./assets/crucifixion/images/シーン3−1.jpeg", is_video: false, placeholderImage: "" },
+        { id: "3-2", text: "「かみさま、このひとたちを<br>ゆるしてあげて。」", imagePath: "./assets/crucifixion/images/シーン3−2.jpeg", is_video: false, placeholderImage: "" },
+        { id: "3-3", text: "イエスさまは みんなの わるいこころを<br>ぜんぶ せおってくれました。", imagePath: "./assets/crucifixion/videos/シーン3−3.mp4", is_video: true, placeholderImage: "./assets/crucifixion/images/シーン3−3.jpeg" },
+        { id: "3-4", text: "そして、イエスさまは<br>いきを ひきとりました。", imagePath: "./assets/crucifixion/images/シーン3−4.jpeg", is_video: false, placeholderImage: "" },
+        { id: "4-1", text: "おともだちが イエスさまを<br>どうくつの おはかに いれました。", imagePath: "./assets/crucifixion/images/シーン4−1.jpeg", is_video: false, placeholderImage: "" },
+        { id: "4-2", text: "おおきな いしで<br>ぴたりと ふたを しました。", imagePath: "./assets/crucifixion/videos/シーン4−2.mp4", is_video: true, placeholderImage: "./assets/crucifixion/images/シーン4−2.jpeg" },
+        { id: "4-3", text: "みんな とても かなしくて、<br>たくさん ないています。", imagePath: "./assets/crucifixion/images/シーン4−3.jpeg", is_video: false, placeholderImage: "" },
+        { id: "4-4", text: "１にち、２にちと<br>じかんが すぎました。", imagePath: "./assets/crucifixion/images/シーン4−4.jpeg", is_video: false, placeholderImage: "" },
+        { id: "5-1", text: "３っかめの あさ、かみさまの ちからで<br>ひかりが さしました。", imagePath: "./assets/adam_and_eve/images/シーン1−2.jpeg", is_video: false, placeholderImage: "" },
+        { id: "5-2", text: "なんと、おはかの いしが<br>ころがり あいています！", imagePath: "./assets/crucifixion/videos/シーン5−2.mp4", is_video: true, placeholderImage: "./assets/crucifixion/images/シーン5−2.jpeg" },
+        { id: "5-3", text: "「イエスさまが いない！」<br>おんなのひとたちが びっくりしています。", imagePath: "./assets/crucifixion/images/シーン5−3.jpeg", is_video: false, placeholderImage: "" },
+        { id: "5-4", text: "てんしが あらわれて 言いました。<br>「イエスさまは いきかえりましたよ！」", imagePath: "./assets/crucifixion/videos/シーン5−4.mp4", is_video: true, placeholderImage: "./assets/crucifixion/images/シーン5−4.jpeg" },
+        { id: "6-1", text: "イエスさまが みんなの まえに<br>あらわれました！", imagePath: "./assets/crucifixion/videos/シーン6−1.mp4", is_video: true, placeholderImage: "./assets/crucifixion/images/シーン6−1.jpeg" },
+        { id: "6-2", text: "「イエスさま！<br>いきかえったのですね！」", imagePath: "./assets/crucifixion/images/シーン6−2.jpeg", is_video: false, placeholderImage: "" },
+        { id: "6-3", text: "イエスさまの おかげで、<br>みんなの こころは きれいになりました。", imagePath: "./assets/crucifixion/videos/シーン6−3.mp4", is_video: true, placeholderImage: "./assets/crucifixion/images/シーン6−3.jpeg" },
+        { id: "6-4", text: "イエスさまは いつまでも<br>わたしたちと いっしょです。", imagePath: "./assets/crucifixion/videos/シーン6−4.mp4", is_video: true, placeholderImage: "./assets/crucifixion/images/シーン6−4.jpeg" }
+    ]
+}

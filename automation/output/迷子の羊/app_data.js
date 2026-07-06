@@ -1,0 +1,33 @@
+{
+    id: "lost_sheep",
+    title: "まいごの ひつじ",
+    cover: "./assets/lost_sheep/images/シーン0-1.jpeg",
+    scenes: [
+        { id: "0-1", text: "まいごの ひつじ", imagePath: "./assets/lost_sheep/images/シーン0-1.jpeg", placeholderImage: "..." },
+        { id: "1-1", text: "あるところに、やさしい ひつじかいさんが いました。", imagePath: "./assets/lost_sheep/images/シーン1-1.jpeg", videoPath: "./assets/lost_sheep/videos/シーン1-1.mp4", placeholderImage: "..." },
+        { id: "1-2", text: "ひつじかいさんは、ひつじを １００ぴき かっていました。", imagePath: "./assets/lost_sheep/images/シーン1-2.jpeg", placeholderImage: "..." },
+        { id: "1-3", text: "ひつじたちは、みんな なかよしです。<br>みどりの のはらで あそびます。", imagePath: "./assets/lost_sheep/images/シーン1-3.jpeg", videoPath: "./assets/lost_sheep/videos/シーン1-3.mp4", placeholderImage: "..." },
+        { id: "1-4", text: "「さあ、おいしい くさを おたべ」<br>ひつじかいさんは、いつも みまもっています。", imagePath: "./assets/lost_sheep/images/シーン1-4.jpeg", placeholderImage: "..." },
+        { id: "1-5", text: "ひつじたちは、ひつじかいさんが だいすきです。", imagePath: "./assets/lost_sheep/images/シーン1-5.jpeg", videoPath: "./assets/lost_sheep/videos/シーン1-5.mp4", placeholderImage: "..." },
+        { id: "2-1", text: "ゆうぐれに なりました。<br>おうちへ かえる じかんです。", imagePath: "./assets/lost_sheep/images/シーン2-1.jpeg", placeholderImage: "..." },
+        { id: "2-2", text: "「１、２、３… ９９」<br>あれ？ １ぴき たりません。", imagePath: "./assets/lost_sheep/images/シーン2-2.jpeg", videoPath: "./assets/lost_sheep/videos/シーン2-2.mp4", placeholderImage: "..." },
+        { id: "2-3", text: "ちいさな ひつじが、まいごに なって しまったのです。", imagePath: "./assets/lost_sheep/images/シーン2-3.jpeg", placeholderImage: "..." },
+        { id: "2-4", text: "ひつじかいさんは、びっくりして あたりを みまわしました。", imagePath: "./assets/lost_sheep/images/シーン2-4.jpeg", videoPath: "./assets/lost_sheep/videos/シーン2-4.mp4", placeholderImage: "..." },
+        { id: "3-1", text: "「たいへんだ！ さがしに いかなくちゃ！」", imagePath: "./assets/lost_sheep/images/シーン3-1.jpeg", placeholderImage: "..." },
+        { id: "3-2", text: "ひつじかいさんは、９９ぴきを のはらに のこして、はしりだしました。", imagePath: "./assets/lost_sheep/images/シーン3-2.jpeg", videoPath: "./assets/lost_sheep/videos/シーン3-2.mp4", placeholderImage: "..." },
+        { id: "3-3", text: "くらい もりの なかや、けわしい やまみちを さがします。", imagePath: "./assets/lost_sheep/images/シーン3-3.jpeg", placeholderImage: "..." },
+        { id: "3-4", text: "「どこに いるんだい？ でておいで！」<br>いっしょうけんめい よびかけます。", imagePath: "./assets/lost_sheep/images/シーン3-4.jpeg", videoPath: "./assets/lost_sheep/videos/シーン3-4.mp4", placeholderImage: "..." },
+        { id: "4-1", text: "そのころ、まいごの ひつじは ひとりぼっちで ないていました。", imagePath: "./assets/lost_sheep/images/シーン4-1.jpeg", placeholderImage: "..." },
+        { id: "4-2", text: "「メェー、メェー」<br>こわくて、さみしくて、ふるえています。", imagePath: "./assets/lost_sheep/images/シーン4-2.jpeg", videoPath: "./assets/lost_sheep/videos/シーン4-2.mp4", placeholderImage: "..." },
+        { id: "4-3", text: "あしもとが わるくて、とげとげの きに ひっかかって しまいました。", imagePath: "./assets/lost_sheep/images/シーン4-3.jpeg", placeholderImage: "..." },
+        { id: "4-4", text: "「だれか たすけて…」<br>ひつじは、ちいさな こえで なきました。", imagePath: "./assets/lost_sheep/images/シーン4-4.jpeg", videoPath: "./assets/lost_sheep/videos/シーン4-4.mp4", placeholderImage: "..." },
+        { id: "5-1", text: "そのときです！<br>「みつけたぞ！」", imagePath: "./assets/lost_sheep/images/シーン5-1.jpeg", placeholderImage: "..." },
+        { id: "5-2", text: "ひつじかいさんが、かけつけて くれました。", imagePath: "./assets/lost_sheep/images/シーン5-2.jpeg", videoPath: "./assets/lost_sheep/videos/シーン5-2.mp4", placeholderImage: "..." },
+        { id: "5-3", text: "「よかった、ケガは ないかい？」<br>やさしく だきしめて くれました。", imagePath: "./assets/lost_sheep/images/シーン5-3.jpeg", placeholderImage: "..." },
+        { id: "5-4", text: "ひつじかいさんは、ひつじを かたに かついで、うれしそうに あるきだしました。", imagePath: "./assets/lost_sheep/images/シーン5-4.jpeg", videoPath: "./assets/lost_sheep/videos/シーン5-4.mp4", placeholderImage: "..." },
+        { id: "6-1", text: "おうちへ かえると、みんなに おしえました。<br>「まいごの ひつじが みつかったよ！」", imagePath: "./assets/lost_sheep/images/シーン6-1.jpeg", placeholderImage: "..." },
+        { id: "6-2", text: "おともだちも よんで、みんなで パーティーです。", imagePath: "./assets/lost_sheep/images/シーン6-2.jpeg", videoPath: "./assets/lost_sheep/videos/シーン6-2.mp4", placeholderImage: "..." },
+        { id: "6-3", text: "かみさまは、わたしたちの ことを この ひつじの ように だいじに してくれます。", imagePath: "./assets/adam_and_eve/images/シーン1−2.jpeg", placeholderImage: "..." },
+        { id: "6-4", text: "１ぴきでも まいごに なったら、かならず さがしだして くれるのです。", imagePath: "./assets/lost_sheep/images/シーン6-4.jpeg", videoPath: "./assets/lost_sheep/videos/シーン6-4.mp4", placeholderImage: "..." }
+    ]
+}

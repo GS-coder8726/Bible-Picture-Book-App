@@ -1,0 +1,26 @@
+{
+  "traveler": {
+    "name": "旅人 (Traveler)",
+    "description": "A simple man walking on the road. Earth-tone simple clothing."
+  },
+  "robbers": {
+    "name": "強盗 (Robbers)",
+    "description": "Men in dark simple cloaks. Looking slightly mischievous but not overly scary, kid-friendly."
+  },
+  "priest": {
+    "name": "祭司 (Priest)",
+    "description": "A man wearing elegant, beautiful flowing robes."
+  },
+  "levite": {
+    "name": "レビ人 (Levite)",
+    "description": "A man wearing neat, respectful clothing."
+  },
+  "samaritan": {
+    "name": "サマリア人 (Samaritan)",
+    "description": "A kind-hearted man wearing warm earth-tone clothing, accompanied by a donkey."
+  },
+  "innkeeper": {
+    "name": "宿屋の主人 (Innkeeper)",
+    "description": "A welcoming man wearing an apron at a cozy inn."
+  }
+}

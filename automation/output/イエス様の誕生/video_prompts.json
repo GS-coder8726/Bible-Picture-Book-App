@@ -1,0 +1,52 @@
+{
+  "videos": [
+    {
+      "id": "1-1",
+      "prompt": "Mary smiling warmly and looking around gently."
+    },
+    {
+      "id": "1-4",
+      "prompt": "The donkey walking slowly, Mary bobbing gently, Joseph walking."
+    },
+    {
+      "id": "2-1",
+      "prompt": "People walking around in the crowded streets."
+    },
+    {
+      "id": "2-4",
+      "prompt": "Mary and Joseph walking slowly towards the stable."
+    },
+    {
+      "id": "3-1",
+      "prompt": "Stars twinkling brightly in the night sky."
+    },
+    {
+      "id": "3-3",
+      "prompt": "Mary gently rocking the baby Jesus."
+    },
+    {
+      "id": "3-5",
+      "prompt": "The cow and donkey breathing softly and blinking."
+    },
+    {
+      "id": "4-2",
+      "prompt": "The angel's wings flapping slowly, light shimmering."
+    },
+    {
+      "id": "4-4",
+      "prompt": "The shepherds running quickly across the field."
+    },
+    {
+      "id": "5-2",
+      "prompt": "Camels walking slowly across the desert sand."
+    },
+    {
+      "id": "6-2",
+      "prompt": "The wise men holding out their gifts, light sparkling."
+    },
+    {
+      "id": "6-5",
+      "prompt": "Warm light glowing and expanding gently inside the stable."
+    }
+  ]
+}

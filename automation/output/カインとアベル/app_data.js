@@ -1,0 +1,33 @@
+{
+    id: "cain_and_abel",
+    title: "カインと アベル",
+    cover: "./assets/cain_and_abel/videos/シーン0−1.mp4",
+    scenes: [
+        { id: "1-1", text: "アダムとエバに、ふたりの子どもが うまれました。", imagePath: "./assets/cain_and_abel/images/シーン1−1.jpeg", placeholderImage: "..." },
+        { id: "1-2", text: "お兄ちゃんは カイン。<br>おとうとは アベルです。", imagePath: "./assets/cain_and_abel/images/シーン1−2.jpeg", placeholderImage: "..." },
+        { id: "1-3", text: "ふたりは、すくすくと 大きくなりました。", imagePath: "./assets/cain_and_abel/videos/シーン1−3.mp4", placeholderImage: "..." },
+        { id: "1-4", text: "お日さまの 下で、元気に あそびます。", imagePath: "./assets/cain_and_abel/videos/シーン1−4.mp4", placeholderImage: "..." },
+        { id: "2-1", text: "大人になった カインは、畑で おやさいを そだてました。", imagePath: "./assets/cain_and_abel/images/シーン2−1.jpeg", placeholderImage: "..." },
+        { id: "2-2", text: "いっしょうけんめい、土を たがやします。", imagePath: "./assets/cain_and_abel/videos/シーン2−2.mp4", placeholderImage: "..." },
+        { id: "2-3", text: "アベルは、ひつじの お世話を しました。", imagePath: "./assets/cain_and_abel/images/シーン2−3.jpeg", placeholderImage: "..." },
+        { id: "2-4", text: "やさしく、ひつじたちを まもります。", imagePath: "./assets/cain_and_abel/videos/シーン2−4.mp4", placeholderImage: "..." },
+        { id: "3-1", text: "ある日、ふたりは 神様に おくりものを することに しました。", imagePath: "./assets/cain_and_abel/images/シーン3−1.jpeg", placeholderImage: "..." },
+        { id: "3-2", text: "カインは、畑で とれた おやさいを もってきました。", imagePath: "./assets/cain_and_abel/videos/シーン3−2.mp4", placeholderImage: "..." },
+        { id: "3-3", text: "アベルは、たいせつに 育てた ひつじの 赤ちゃんを もってきました。", imagePath: "./assets/cain_and_abel/videos/シーン3−3.mp4", placeholderImage: "..." },
+        { id: "3-4", text: "ふたりとも、神様に 「ありがとう」を つたえます。", imagePath: "./assets/cain_and_abel/images/シーン3−4.jpeg", placeholderImage: "..." },
+        { id: "4-1", text: "神様は、ふたりの おくりものを 見ました。", imagePath: "./assets/adam_and_eve/images/シーン1−2.jpeg", placeholderImage: "..." },
+        { id: "4-2", text: "神様は、アベルの ひつじを とても よろこびました。", imagePath: "./assets/adam_and_eve/images/シーン1−2.jpeg", placeholderImage: "..." },
+        { id: "4-3", text: "アベルの 心には、神様への やさしい 気もちが いっぱい だったからです。", imagePath: "./assets/cain_and_abel/videos/シーン4−3.mp4", placeholderImage: "..." },
+        { id: "4-4", text: "でも、カインの おやさいは、あまり よろこばれませんでした。", imagePath: "./assets/cain_and_abel/images/シーン4−4.jpeg", placeholderImage: "..." },
+        { id: "5-1", text: "カインは、とても くやしくて、怒って しまいました。", imagePath: "./assets/cain_and_abel/videos/シーン5−1.mp4", placeholderImage: "..." },
+        { id: "5-2", text: "お顔が まっかに なって、下を むいて います。", imagePath: "./assets/cain_and_abel/images/シーン5−2.jpeg", placeholderImage: "..." },
+        { id: "5-3", text: "神様は 言いました。<br>「カイン、どうして 怒って いるの？」", imagePath: "./assets/adam_and_eve/images/シーン1−2.jpeg", placeholderImage: "..." },
+        { id: "5-4", text: "でも、カインは 神様の お話を 聞きませんでした。", imagePath: "./assets/cain_and_abel/images/シーン5−4.jpeg", placeholderImage: "..." },
+        { id: "5-5", text: "怒った カインは、とうとう アベルを 傷つけて しまいました。", imagePath: "./assets/cain_and_abel/videos/シーン5−5.mp4", placeholderImage: "..." },
+        { id: "6-1", text: "神様は、とても かなしく なりました。<br>「アベルは どこに いるの？」", imagePath: "./assets/adam_and_eve/images/シーン1−2.jpeg", placeholderImage: "..." },
+        { id: "6-2", text: "カインは、とおくへ 行かなければ ならなく なりました。", imagePath: "./assets/cain_and_abel/images/シーン6−2.jpeg", placeholderImage: "..." },
+        { id: "6-3", text: "カインは なきました。<br>「だれかに いじめられたら、どうしよう。」", imagePath: "./assets/cain_and_abel/images/シーン6−3.jpeg", placeholderImage: "..." },
+        { id: "6-4", text: "神様は、カインに しるしを つけました。<br>「だいじょうぶ、わたしが 守るよ。」", imagePath: "./assets/adam_and_eve/images/シーン1−2.jpeg", placeholderImage: "..." },
+        { id: "6-5", text: "カインは、神様に 守られて、新しい ところへ しゅっぱつ しました。", imagePath: "./assets/cain_and_abel/videos/シーン6−5.mp4", placeholderImage: "..." }
+    ]
+}

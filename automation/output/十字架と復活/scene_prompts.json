@@ -1,0 +1,125 @@
+{
+  "theme_id": "crucifixion",
+  "prompts": [
+    {
+      "scene_id": "0-1",
+      "description": "Cover: Jesus and children smiling happily",
+      "prompt": "Watercolor style illustration of a loving Jesus smiling happily together with small children. Soft pastel colors, warm and gentle lighting, glowing light particles. Simple characters with innocent facial expressions, large expressive eyes. Dreamlike atmosphere, hand-drawn texture."
+    },
+    {
+      "scene_id": "1-1",
+      "description": "Jesus and his friends eating together at a wooden table",
+      "prompt": "Watercolor style illustration of Jesus and his friends eating together at a simple wooden table, sharing bread. Soft pastel colors, warm and cozy lighting. Simple characters, innocent facial expressions, large expressive eyes. Hand-drawn texture."
+    },
+    {
+      "scene_id": "1-2",
+      "description": "Jesus holding bread and cup, looking with love",
+      "prompt": "Watercolor style illustration, close-up of Jesus gently holding bread and a cup, looking at his friends with deep love. Soft pastel colors, warm and gentle lighting. Innocent facial expression. Hand-drawn texture."
+    },
+    {
+      "scene_id": "1-3",
+      "description": "Jesus praying on a mountain at night",
+      "prompt": "Watercolor style illustration of Jesus praying quietly on a hill at night. Soft moonlight, dark blue sky with soft stars. Soft pastel colors, hand-drawn texture. Simple character, serene and gentle expression."
+    },
+    {
+      "scene_id": "1-5",
+      "description": "Angry guards coming to arrest Jesus",
+      "prompt": "Watercolor style illustration of angry guards holding torches coming to catch Jesus in the night. Jesus stands calmly. Soft pastel colors but slightly darker tones, soft edges. Hand-drawn texture, innocent facial expressions."
+    },
+    {
+      "scene_id": "2-1",
+      "description": "People shouting angrily at Jesus",
+      "prompt": "Watercolor style illustration of a crowd of people looking angry and shouting at Jesus. Jesus is peaceful. Soft pastel colors, hand-drawn texture. Simple characters with expressive faces."
+    },
+    {
+      "scene_id": "2-2",
+      "description": "Jesus patiently enduring, standing quietly",
+      "prompt": "Watercolor style illustration of Jesus standing quietly and patiently, looking down gently despite the trouble. Soft pastel colors, warm and gentle lighting. Simple character, innocent facial expression, hand-drawn texture."
+    },
+    {
+      "scene_id": "2-3",
+      "description": "Jesus carrying a heavy wooden cross",
+      "prompt": "Watercolor style illustration of Jesus carrying a large, heavy wooden cross on his back, walking slowly. Soft pastel colors, warm sunlight, dusty path. Simple character, hand-drawn texture."
+    },
+    {
+      "scene_id": "2-4",
+      "description": "Close up of Jesus' tired but determined face",
+      "prompt": "Watercolor style illustration, close-up of Jesus' face. He looks tired but determined and full of love. Soft pastel colors, hand-drawn texture, warm and gentle lighting."
+    },
+    {
+      "scene_id": "3-1",
+      "description": "Jesus on the cross from a distance",
+      "prompt": "Watercolor style illustration of Jesus on a wooden cross on a hill, seen from a distance. Soft pastel colors, dramatic but gentle sky. Hand-drawn texture, dreamlike atmosphere."
+    },
+    {
+      "scene_id": "3-2",
+      "description": "Jesus looking up to the sky with a forgiving smile",
+      "prompt": "Watercolor style illustration, close-up of Jesus on the cross, looking up to the sky with a gentle, forgiving smile. Soft pastel colors, warm glowing light from above. Hand-drawn texture, innocent facial expression."
+    },
+    {
+      "scene_id": "3-3",
+      "description": "Soft glowing light wrapping around the cross",
+      "prompt": "Watercolor style illustration of the cross wrapped in beautiful, soft glowing light particles. It feels like love is spreading. Soft pastel colors, warm and gentle lighting, dreamlike atmosphere. Hand-drawn texture."
+    },
+    {
+      "scene_id": "3-4",
+      "description": "Peaceful Jesus resting his head, closing his eyes",
+      "prompt": "Watercolor style illustration of Jesus peacefully closing his eyes, resting his head. Soft pastel colors, gentle sunset lighting in the background. Hand-drawn texture, serene atmosphere."
+    },
+    {
+      "scene_id": "4-1",
+      "description": "Friends carrying Jesus to a cave tomb",
+      "prompt": "Watercolor style illustration of sad friends gently carrying Jesus into a cave tomb. Soft pastel colors, gentle shadows, warm and cozy but sad atmosphere. Simple characters, hand-drawn texture."
+    },
+    {
+      "scene_id": "4-2",
+      "description": "A big round stone covering the cave entrance",
+      "prompt": "Watercolor style illustration of a large round stone completely covering the entrance of a cave tomb. Soft pastel colors, quiet atmosphere. Hand-drawn texture."
+    },
+    {
+      "scene_id": "4-3",
+      "description": "Friends crying and hugging each other",
+      "prompt": "Watercolor style illustration of friends crying and comforting each other outside the tomb. Large expressive eyes filled with tears. Soft pastel colors, soft edges, hand-drawn texture."
+    },
+    {
+      "scene_id": "4-4",
+      "description": "Quiet tomb scene as time passes, sun setting",
+      "prompt": "Watercolor style illustration of the quiet cave tomb from a distance as the sun sets, showing time passing. Soft pastel colors, warm orange and purple sky. Hand-drawn texture, dreamlike atmosphere."
+    },
+    {
+      "scene_id": "5-2",
+      "description": "The big stone is rolled away, tomb is open, light shining out",
+      "prompt": "Watercolor style illustration of the big round stone rolled away from the cave tomb, bright warm light shining from inside. Soft pastel colors, glowing light particles, sparkles. Hand-drawn texture, dreamlike atmosphere."
+    },
+    {
+      "scene_id": "5-3",
+      "description": "Women looking surprised and amazed",
+      "prompt": "Watercolor style illustration of simple women characters looking incredibly surprised and amazed, eyes wide open. Soft pastel colors, warm morning light. Large and expressive eyes, hand-drawn texture."
+    },
+    {
+      "scene_id": "5-4",
+      "description": "A beautiful glowing angel speaking kindly",
+      "prompt": "Watercolor style illustration of a beautiful angel with glowing white robes and soft wings, speaking kindly. Glowing light particles, soft sparkles. Soft pastel colors, dreamlike atmosphere. Innocent facial expression."
+    },
+    {
+      "scene_id": "6-1",
+      "description": "Jesus stands happily in front of everyone",
+      "prompt": "Watercolor style illustration of Jesus standing alive and happy, glowing softly with warm light. Soft pastel colors, warm and gentle lighting. Simple character with innocent facial expression. Hand-drawn texture."
+    },
+    {
+      "scene_id": "6-2",
+      "description": "Friends looking overjoyed with tears of happiness",
+      "prompt": "Watercolor style illustration of friends looking extremely overjoyed, crying tears of happiness, reaching out to Jesus. Large expressive eyes, innocent faces. Soft pastel colors, hand-drawn texture."
+    },
+    {
+      "scene_id": "6-3",
+      "description": "Beautiful soft sparkles filling the air, everyone smiling",
+      "prompt": "Watercolor style illustration of everyone smiling happily, surrounded by beautiful soft sparkles and glowing light particles. Soft pastel colors, dreamlike atmosphere, warm and cozy. Hand-drawn texture."
+    },
+    {
+      "scene_id": "6-4",
+      "description": "Jesus hugging a child, looking directly at the viewer",
+      "prompt": "Watercolor style illustration of Jesus gently hugging a child and smiling warmly, looking forward. Soft pastel colors, warm and gentle lighting. Simple characters, soft rounded features. Dreamlike atmosphere, hand-drawn texture."
+    }
+  ]
+}

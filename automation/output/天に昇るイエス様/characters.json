@@ -1,0 +1,20 @@
+{
+  "characters": [
+    {
+      "name": "Jesus",
+      "description": "A kind and gentle man, wearing simple flowing white robes. He has a warm smile, long brown hair, and a soft beard. Often surrounded by a gentle, glowing light."
+    },
+    {
+      "name": "Disciples",
+      "description": "A group of gentle disciples with innocent, expressive faces and large eyes. They wear simple earth-tone clothing (brown, light blue, green)."
+    },
+    {
+      "name": "Angel",
+      "description": "A heavenly being wearing glowing white robes, with soft white wings and a reassuring smile."
+    },
+    {
+      "name": "God",
+      "description": "God the Father. (Note: Do not generate new images for God. Reuse existing image assets.)"
+    }
+  ]
+}

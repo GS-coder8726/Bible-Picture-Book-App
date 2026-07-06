@@ -1,0 +1,25 @@
+{
+  "theme_id": "dreaming_joseph",
+  "characters": [
+    {
+      "name": "Joseph (ヨセフ)",
+      "description": "Young boy with a colorful coat, innocent face, large expressive eyes, short dark wavy hair.",
+      "keywords": "young boy, colorful striped robe, short dark wavy hair, innocent smiling face"
+    },
+    {
+      "name": "Jacob (ヤコブ)",
+      "description": "Joseph's father, older man with a gentle face and a long gray beard, wearing simple earth-tone clothes.",
+      "keywords": "older man, long gray beard, gentle face, simple earth-tone tunic"
+    },
+    {
+      "name": "Brothers (おにいさんたち)",
+      "description": "Older brothers of Joseph, wearing simple desert clothes, sometimes looking jealous or surprised.",
+      "keywords": "young men, simple desert clothes, earth-tone tunics"
+    },
+    {
+      "name": "God (神様)",
+      "description": "Not generated. Reuse existing assets from adam_and_eve theme.",
+      "keywords": ""
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "theme_id": "abrahams_departure",
+  "characters": [
+    {
+      "name": "Abram",
+      "role": "The main character, a faithful elderly man.",
+      "traits": [
+        "elderly man",
+        "kind and gentle face",
+        "long white beard",
+        "wearing simple earth-tone robes",
+        "holding a wooden shepherd's staff"
+      ]
+    },
+    {
+      "name": "Sarai",
+      "role": "Abram's wife.",
+      "traits": [
+        "elderly woman",
+        "gentle smile",
+        "wearing a simple veil",
+        "modest earth-tone dress"
+      ]
+    },
+    {
+      "name": "Lot",
+      "role": "Abram's nephew.",
+      "traits": [
+        "young man",
+        "strong and energetic",
+        "wearing a simple tunic"
+      ]
+    }
+  ],
+  "note": "God is not included in the character list as existing images will be reused for God's scenes."
+}

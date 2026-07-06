@@ -1,0 +1,22 @@
+{
+  "characters": [
+    {
+      "id": "noah",
+      "name": "ノア",
+      "description": "優しいおじいさん。神様の言葉を信じて大きな舟を作る。",
+      "visual_traits": "an old man with a long white beard, wearing simple earth-tone natural clothing, gentle innocent facial expressions, large and expressive eyes, soft rounded features"
+    },
+    {
+      "id": "animals",
+      "name": "動物たち",
+      "description": "つがいで舟に乗る様々な動物（ゾウ、ライオン、ウサギ、ハトなど）",
+      "visual_traits": "cute animals in pairs, soft watercolor style, chibi-like proportions, innocent expressions, soft hand-drawn texture"
+    },
+    {
+      "id": "god",
+      "name": "神様",
+      "description": "ノアたちを見守り、虹の約束をする。（※画像は「adam_and_eve」のシーンを流用するため新規生成不要）",
+      "visual_traits": "N/A (Use existing assets)"
+    }
+  ]
+}

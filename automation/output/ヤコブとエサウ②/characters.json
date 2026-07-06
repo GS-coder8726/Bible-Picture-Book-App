@@ -1,0 +1,57 @@
+{
+  "theme_id": "jacob_and_esau_2",
+  "characters": [
+    {
+      "id": "jacob",
+      "name": "ヤコブ（Jacob）",
+      "description": "Younger twin brother. Smooth skin, wearing a simple earth-tone tunic. Innocent facial expression, large expressive eyes, slightly nervous or anxious look. Chibi-like proportions.",
+      "traits": [
+        "young boy",
+        "smooth skin",
+        "simple earth-tone tunic",
+        "large expressive eyes",
+        "chibi-like proportions",
+        "slightly nervous"
+      ]
+    },
+    {
+      "id": "esau",
+      "name": "エサウ（Esau）",
+      "description": "Older twin brother. Hairy body (especially arms), wearing hunter's animal skin clothing. Strong, energetic, carries a wooden bow. Large expressive eyes, chibi-like proportions.",
+      "traits": [
+        "young boy",
+        "hairy arms",
+        "hunter's animal skin clothing",
+        "carrying a wooden bow",
+        "strong and energetic",
+        "large expressive eyes",
+        "chibi-like proportions"
+      ]
+    },
+    {
+      "id": "isaac",
+      "name": "イサク（Isaac）",
+      "description": "Old father. Blind, closed or faded eyes. White beard, gentle and frail appearance. Wearing simple old tunic. Soft rounded features.",
+      "traits": [
+        "old man",
+        "white beard",
+        "blind, closed eyes",
+        "gentle frail appearance",
+        "simple old tunic",
+        "soft rounded features"
+      ]
+    },
+    {
+      "id": "rebekah",
+      "name": "リベカ（Rebekah）",
+      "description": "Mother. Loving but determined expression. Wearing a simple dress and a head covering. Soft rounded features.",
+      "traits": [
+        "adult woman",
+        "loving and determined",
+        "simple dress",
+        "head covering",
+        "soft rounded features"
+      ]
+    }
+  ]
+}

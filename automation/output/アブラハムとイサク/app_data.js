@@ -1,0 +1,33 @@
+{
+    id: "abraham_and_isaac",
+    title: "アブラハムとイサク",
+    cover: "./assets/abraham_and_isaac/images/シーン0−1.jpeg",
+    scenes: [
+        { id: "0-1", text: "アブラハムとイサク", imagePath: "./assets/abraham_and_isaac/images/シーン0−1.jpeg", placeholderImage: "..." },
+        { id: "1-1", text: "むかしむかし、アブラハムという おじいさんが いました。", imagePath: "./assets/abraham_and_isaac/images/シーン1−1.jpeg", videoPath: "./assets/abraham_and_isaac/videos/シーン1−1.mp4", placeholderImage: "..." },
+        { id: "1-2", text: "おばあさんの サラと、なかよく くらして いました。", imagePath: "./assets/abraham_and_isaac/images/シーン1−2.jpeg", placeholderImage: "..." },
+        { id: "1-3", text: "ふたりには、イサクという かわいい おとこのこが いました。", imagePath: "./assets/abraham_and_isaac/images/シーン1−3.jpeg", videoPath: "./assets/abraham_and_isaac/videos/シーン1−3.mp4", placeholderImage: "..." },
+        { id: "1-4", text: "イサクは、かみさまから もらった、とても だいじな たからものです。", imagePath: "./assets/abraham_and_isaac/images/シーン1−4.jpeg", placeholderImage: "..." },
+        { id: "2-1", text: "あるひ、かみさまが アブラハムに おはなしを しました。", imagePath: "./assets/adam_and_eve/images/シーン1−2.jpeg", placeholderImage: "..." },
+        { id: "2-2", text: "「アブラハムよ。あなたの だいじな イサクを、わたしに ささげなさい。」", imagePath: "./assets/adam_and_eve/images/シーン1−2.jpeg", placeholderImage: "..." },
+        { id: "2-3", text: "アブラハムは とても びっくりしましたが、かみさまを しんじて いました。", imagePath: "./assets/abraham_and_isaac/images/シーン2−3.jpeg", videoPath: "./assets/abraham_and_isaac/videos/シーン2−3.mp4", placeholderImage: "..." },
+        { id: "3-1", text: "つぎのあさ、アブラハムと イサクは おやまへ しゅっぱつ しました。", imagePath: "./assets/abraham_and_isaac/images/シーン3−1.jpeg", placeholderImage: "..." },
+        { id: "3-2", text: "イサクは たきぎを しょって、てくてく あるきます。", imagePath: "./assets/abraham_and_isaac/images/シーン3−2.jpeg", videoPath: "./assets/abraham_and_isaac/videos/シーン3−2.mp4", placeholderImage: "..." },
+        { id: "3-3", text: "「おとうさん、ひ と たきぎは あるけれど、ささげる ひつじは どこ？」", imagePath: "./assets/abraham_and_isaac/images/シーン3−3.jpeg", placeholderImage: "..." },
+        { id: "3-4", text: "「かみさまが、きっと よういして くださるよ」と アブラハムは こたえました。", imagePath: "./assets/abraham_and_isaac/images/シーン3−4.jpeg", videoPath: "./assets/abraham_and_isaac/videos/シーン3−4.mp4", placeholderImage: "..." },
+        { id: "4-1", text: "おやまの うえに つきました。", imagePath: "./assets/abraham_and_isaac/images/シーン4−1.jpeg", videoPath: "./assets/abraham_and_isaac/videos/シーン4−1.mp4", placeholderImage: "..." },
+        { id: "4-2", text: "アブラハムは、いしを つんで さいだんを つくりました。", imagePath: "./assets/abraham_and_isaac/images/シーン4−2.jpeg", placeholderImage: "..." },
+        { id: "4-3", text: "そのうえに たきぎを ならべて、イサクを のせました。", imagePath: "./assets/abraham_and_isaac/images/シーン4−3.jpeg", videoPath: "./assets/abraham_and_isaac/videos/シーン4−3.mp4", placeholderImage: "..." },
+        { id: "4-4", text: "アブラハムは、かみさまの いうとおりに しようと します。", imagePath: "./assets/abraham_and_isaac/images/シーン4−4.jpeg", placeholderImage: "..." },
+        { id: "5-1", text: "そのとき、てんしが おおきな こえで よびました。", imagePath: "./assets/abraham_and_isaac/images/シーン5−1.jpeg", videoPath: "./assets/abraham_and_isaac/videos/シーン5−1.mp4", placeholderImage: "..." },
+        { id: "5-2", text: "「アブラハムよ！ こどもに てを かけてはいけない。」", imagePath: "./assets/abraham_and_isaac/images/シーン5−2.jpeg", placeholderImage: "..." },
+        { id: "5-3", text: "「あなたが、かみさまを ほんとうに しんじている ことが わかりました。」", imagePath: "./assets/abraham_and_isaac/images/シーン5−3.jpeg", placeholderImage: "..." },
+        { id: "5-4", text: "うしろを ふりむくと、やぶに つのが ひっかかった ひつじが いました。", imagePath: "./assets/abraham_and_isaac/images/シーン5−4.jpeg", videoPath: "./assets/abraham_and_isaac/videos/シーン5−4.mp4", placeholderImage: "..." },
+        { id: "5-5", text: "アブラハムは、イサクの かわりに、その ひつじを かみさまに ささげました。", imagePath: "./assets/abraham_and_isaac/images/シーン5−5.jpeg", videoPath: "./assets/abraham_and_isaac/videos/シーン5−5.mp4", placeholderImage: "..." },
+        { id: "6-1", text: "かみさまは、アブラハムが とても すきに なりました。", imagePath: "./assets/adam_and_eve/images/シーン1−2.jpeg", placeholderImage: "..." },
+        { id: "6-2", text: "「わたしは、あなたを たくさん しゅくふく します。」", imagePath: "./assets/adam_and_eve/images/シーン1−2.jpeg", placeholderImage: "..." },
+        { id: "6-3", text: "「あなたから、ほしのように たくさんの こどもたちが うまれるでしょう。」", imagePath: "./assets/abraham_and_isaac/images/シーン6−3.jpeg", videoPath: "./assets/abraham_and_isaac/videos/シーン6−3.mp4", placeholderImage: "..." },
+        { id: "6-4", text: "アブラハムと イサクは、にこにこ えがおで おうちへ かえりました。", imagePath: "./assets/abraham_and_isaac/images/シーン6−4.jpeg", videoPath: "./assets/abraham_and_isaac/videos/シーン6−4.mp4", placeholderImage: "..." },
+        { id: "6-5", text: "かみさまの やくそくは、ずっと ずっと つづいて いきます。", imagePath: "./assets/abraham_and_isaac/images/シーン6−5.jpeg", videoPath: "./assets/abraham_and_isaac/videos/シーン6−5.mp4", placeholderImage: "..." }
+    ]
+}

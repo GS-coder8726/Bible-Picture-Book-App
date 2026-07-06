@@ -1,0 +1,32 @@
+{
+    id: "new_heaven_and_earth",
+    title: "あたらしい てんと ち",
+    cover: "./assets/new_heaven_and_earth/images/シーン0−1.jpeg",
+    scenes: [
+        { id: "0-1", is_video: false, text: "あたらしい てんと ち", imagePath: "./assets/new_heaven_and_earth/images/シーン0−1.jpeg", placeholderImage: "..." },
+        { id: "1-1", is_video: false, text: "わたしたちの すんでいる せかいには、<br>ときどき かなしいことや いたいことがあります。", imagePath: "./assets/new_heaven_and_earth/images/シーン1−1.jpeg", placeholderImage: "..." },
+        { id: "1-2", is_video: false, text: "でも、かみさまは とっても すてきな<br>おやくそくを してくれました。", imagePath: "./assets/adam_and_eve/images/シーン1−2.jpeg", placeholderImage: "..." },
+        { id: "1-3", is_video: false, text: "「いつか、すべてを あたらしく するよ」<br>かみさまは そう おっしゃいました。", imagePath: "./assets/adam_and_eve/images/シーン5−1.jpeg", placeholderImage: "..." },
+        { id: "1-4", is_video: true, text: "それは どんな せかい なんでしょう？", imagePath: "./assets/new_heaven_and_earth/videos/シーン1−4.mp4", placeholderImage: "..." },
+        { id: "2-1", is_video: true, text: "あるひ、おそらから イエスさまが<br>もどって こられます。", imagePath: "./assets/new_heaven_and_earth/videos/シーン2−1.mp4", placeholderImage: "..." },
+        { id: "2-2", is_video: false, text: "イエスさまは ピカピカ ひかる<br>きれいないろに つつまれています。", imagePath: "./assets/new_heaven_and_earth/images/シーン2−2.jpeg", placeholderImage: "..." },
+        { id: "2-3", is_video: true, text: "「みんな、おまたせ！」<br>イエスさまは やさしく わらいます。", imagePath: "./assets/new_heaven_and_earth/videos/シーン2−3.mp4", placeholderImage: "..." },
+        { id: "2-4", is_video: true, text: "どうぶつたちも こどもたちも、<br>みんな イエスさまの ところへ あつまります。", imagePath: "./assets/new_heaven_and_earth/videos/シーン2−4.mp4", placeholderImage: "..." },
+        { id: "3-1", is_video: true, text: "そして、かみさまが つくった<br>「あたらしい せかい」が はじまります。", imagePath: "./assets/new_heaven_and_earth/videos/シーン3−1.mp4", placeholderImage: "..." },
+        { id: "3-2", is_video: false, text: "きらきら ひかる きれいな おみずや、<br>おいしい くだものが たくさん あります。", imagePath: "./assets/new_heaven_and_earth/images/シーン3−2.jpeg", placeholderImage: "..." },
+        { id: "3-3", is_video: true, text: "くらい よるは もう ありません。<br>かみさまの ひかりが ずっと てらしているからです。", imagePath: "./assets/new_heaven_and_earth/videos/シーン3−3.mp4", placeholderImage: "..." },
+        { id: "3-4", is_video: false, text: "らいおんさんと ひつじさんが、<br>いっしょに なかよく おひるね しています。", imagePath: "./assets/new_heaven_and_earth/images/シーン3−4.jpeg", placeholderImage: "..." },
+        { id: "3-5", is_video: true, text: "おおかみさんも うさぎさんも、<br>みんな ずっと おともだち です。", imagePath: "./assets/new_heaven_and_earth/videos/シーン3−5.mp4", placeholderImage: "..." },
+        { id: "4-1", is_video: false, text: "かみさまは やさしく<br>なみだを ふいてくださいます。", imagePath: "./assets/adam_and_eve/images/シーン1−2.jpeg", placeholderImage: "..." },
+        { id: "4-2", is_video: false, text: "「もう なくことは ないんだよ」<br>かみさまは やさしく おっしゃいます。", imagePath: "./assets/adam_and_eve/images/シーン5−1.jpeg", placeholderImage: "..." },
+        { id: "4-3", is_video: true, text: "いたいことも、かなしいことも、<br>びょうきも ぜんぶ なくなります。", imagePath: "./assets/new_heaven_and_earth/videos/シーン4−3.mp4", placeholderImage: "..." },
+        { id: "4-4", is_video: false, text: "みんなの おかおは、<br>にこにこ えがおで いっぱいです。", imagePath: "./assets/new_heaven_and_earth/images/シーン4−4.jpeg", placeholderImage: "..." },
+        { id: "5-1", is_video: false, text: "かみさまは、わたしたちと いっしょに<br>すんでくださいます。", imagePath: "./assets/adam_and_eve/images/シーン1−2.jpeg", placeholderImage: "..." },
+        { id: "5-2", is_video: true, text: "わたしたちは かみさまの こどもとして、<br>ずっと ずっと なかよく くらします。", imagePath: "./assets/new_heaven_and_earth/videos/シーン5−2.mp4", placeholderImage: "..." },
+        { id: "5-3", is_video: true, text: "おててを つないで、<br>うたを うたって あそびます。", imagePath: "./assets/new_heaven_and_earth/videos/シーン5−3.mp4", placeholderImage: "..." },
+        { id: "5-4", is_video: true, text: "ほんとうに とっても すてきな<br>あたらしい せかい です。", imagePath: "./assets/new_heaven_and_earth/videos/シーン5−4.mp4", placeholderImage: "..." },
+        { id: "6-1", is_video: false, text: "かみさま、すてきな おやくそくを<br>ありがとうございます。", imagePath: "./assets/new_heaven_and_earth/images/シーン6−1.jpeg", placeholderImage: "..." },
+        { id: "6-2", is_video: true, text: "イエスさまが きてくれる ひを、<br>みんなで たのしみに まっています。", imagePath: "./assets/new_heaven_and_earth/videos/シーン6−2.mp4", placeholderImage: "..." },
+        { id: "6-3", is_video: true, text: "アーメン。", imagePath: "./assets/new_heaven_and_earth/videos/シーン6−3.mp4", placeholderImage: "..." }
+    ]
+}

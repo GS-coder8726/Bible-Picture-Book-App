@@ -1,0 +1,33 @@
+{
+    id: "good_samaritan",
+    title: "よき サマリアびと",
+    cover: "./assets/good_samaritan/images/シーン0−1.jpeg",
+    scenes: [
+        { id: "0-1", text: "...", imagePath: "./assets/good_samaritan/images/シーン0−1.jpeg", placeholderImage: "..." },
+        { id: "1-1", text: "...", imagePath: "./assets/good_samaritan/images/シーン1−1.jpeg", placeholderImage: "..." },
+        { id: "1-2", text: "...", imagePath: "./assets/good_samaritan/images/シーン1−2.jpeg", placeholderImage: "..." },
+        { id: "1-3", text: "...", imagePath: "./assets/good_samaritan/images/シーン1−3.jpeg", placeholderImage: "..." },
+        { id: "1-4", text: "...", imagePath: "./assets/good_samaritan/images/シーン1−4.jpeg", placeholderImage: "..." },
+        { id: "2-1", text: "...", imagePath: "./assets/good_samaritan/images/シーン2−1.jpeg", placeholderImage: "..." },
+        { id: "2-2", text: "...", imagePath: "./assets/good_samaritan/images/シーン2−2.jpeg", placeholderImage: "..." },
+        { id: "2-3", text: "...", imagePath: "./assets/good_samaritan/images/シーン2−3.jpeg", placeholderImage: "..." },
+        { id: "2-4", text: "...", imagePath: "./assets/good_samaritan/images/シーン2−4.jpeg", placeholderImage: "..." },
+        { id: "3-1", text: "...", imagePath: "./assets/good_samaritan/images/シーン3−1.jpeg", placeholderImage: "..." },
+        { id: "3-2", text: "...", imagePath: "./assets/good_samaritan/images/シーン3−2.jpeg", placeholderImage: "..." },
+        { id: "3-3", text: "...", imagePath: "./assets/good_samaritan/images/シーン3−3.jpeg", placeholderImage: "..." },
+        { id: "3-4", text: "...", imagePath: "./assets/good_samaritan/images/シーン3−4.jpeg", placeholderImage: "..." },
+        { id: "4-1", text: "...", imagePath: "./assets/good_samaritan/images/シーン4−1.jpeg", placeholderImage: "..." },
+        { id: "4-2", text: "...", imagePath: "./assets/good_samaritan/images/シーン4−2.jpeg", placeholderImage: "..." },
+        { id: "4-3", text: "...", imagePath: "./assets/good_samaritan/images/シーン4−3.jpeg", placeholderImage: "..." },
+        { id: "4-4", text: "...", imagePath: "./assets/good_samaritan/images/シーン4−4.jpeg", placeholderImage: "..." },
+        { id: "5-1", text: "...", imagePath: "./assets/good_samaritan/images/シーン5−1.jpeg", placeholderImage: "..." },
+        { id: "5-2", text: "...", imagePath: "./assets/good_samaritan/images/シーン5−2.jpeg", placeholderImage: "..." },
+        { id: "5-3", text: "...", imagePath: "./assets/good_samaritan/images/シーン5−3.jpeg", placeholderImage: "..." },
+        { id: "5-4", text: "...", imagePath: "./assets/good_samaritan/images/シーン5−4.jpeg", placeholderImage: "..." },
+        { id: "6-1", text: "...", imagePath: "./assets/good_samaritan/images/シーン6−1.jpeg", placeholderImage: "..." },
+        { id: "6-2", text: "...", imagePath: "./assets/good_samaritan/images/シーン6−2.jpeg", placeholderImage: "..." },
+        { id: "6-3", text: "...", imagePath: "./assets/good_samaritan/images/シーン6−3.jpeg", placeholderImage: "..." },
+        { id: "6-4", text: "...", imagePath: "./assets/good_samaritan/images/シーン6−4.jpeg", placeholderImage: "..." },
+        { id: "6-5", text: "...", imagePath: "./assets/good_samaritan/images/シーン6−5.jpeg", placeholderImage: "..." }
+    ]
+}

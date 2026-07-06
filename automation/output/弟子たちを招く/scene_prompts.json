@@ -1,0 +1,124 @@
+{
+  "scenes": [
+    {
+      "scene_id": "0-1",
+      "is_video": false,
+      "prompt": "Jesus walking along the beautiful shore of the Sea of Galilee with Peter, Andrew, James, and John following happily behind him. They have large expressive eyes and soft smiles. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere, warm and cozy."
+    },
+    {
+      "scene_id": "1-3",
+      "is_video": false,
+      "prompt": "Jesus walking gently along the beautiful shore of a bright blue lake. He wears a simple white and light blue robe and has a warm smile. Large expressive eyes. Watercolor style illustration, soft pastel colors, hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles."
+    },
+    {
+      "scene_id": "1-4",
+      "is_video": true,
+      "prompt": "Jesus standing by the lake, looking around kindly with a gentle smile, searching for friends. The water is sparkling behind him. Watercolor style illustration, soft pastel colors, hand-drawn texture, warm and gentle lighting, glowing light particles, dreamlike atmosphere."
+    },
+    {
+      "scene_id": "2-1",
+      "is_video": false,
+      "prompt": "Two young fishermen, Peter and Andrew, standing in a small wooden boat on the lake. They wear simple earth-tone tunics. Innocent facial expressions, large eyes. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting, soft sparkles."
+    },
+    {
+      "scene_id": "2-2",
+      "is_video": true,
+      "prompt": "Peter and Andrew energetically throwing a fishing net into the sparkling water from their small wooden boat. They look focused. Watercolor style illustration, soft pastel colors, hand-drawn texture, warm and gentle lighting, glowing light particles, dreamlike atmosphere."
+    },
+    {
+      "scene_id": "2-3",
+      "is_video": false,
+      "prompt": "Peter and Andrew pulling the empty fishing net from the water, looking a bit tired but working hard. Large expressive eyes. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting."
+    },
+    {
+      "scene_id": "2-4",
+      "is_video": true,
+      "prompt": "Peter and Andrew looking slightly sad with an empty fishing net. Innocent and expressive faces. Soft sunlight hitting the water. Watercolor style illustration, soft pastel colors, hand-drawn texture, warm and gentle lighting, dreamlike atmosphere."
+    },
+    {
+      "scene_id": "3-1",
+      "is_video": false,
+      "prompt": "Jesus standing on the shore, gently calling out to Peter and Andrew in the boat. Jesus has a warm, inviting smile. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, glowing light particles, warm and cozy."
+    },
+    {
+      "scene_id": "3-2",
+      "is_video": true,
+      "prompt": "Close-up of Jesus speaking warmly and kindly. He has soft brown hair, large expressive eyes, and a gentle smile. Watercolor style illustration, soft pastel colors, hand-drawn texture, warm and gentle lighting, glowing light particles, dreamlike atmosphere."
+    },
+    {
+      "scene_id": "3-3",
+      "is_video": false,
+      "prompt": "Peter and Andrew looking surprised but very happy to hear Jesus' words. Their eyes are wide and sparkling. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting."
+    },
+    {
+      "scene_id": "3-4",
+      "is_video": true,
+      "prompt": "Peter and Andrew excitedly stepping out of the boat onto the shore to follow Jesus. They have big joyful smiles. Watercolor style illustration, soft pastel colors, hand-drawn texture, warm and gentle lighting, glowing light particles, dreamlike atmosphere."
+    },
+    {
+      "scene_id": "4-1",
+      "is_video": false,
+      "prompt": "Jesus, Peter, and Andrew walking together along the shore and seeing another boat. The mood is peaceful. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, glowing light particles, warm and cozy."
+    },
+    {
+      "scene_id": "4-2",
+      "is_video": true,
+      "prompt": "Two brothers, James and John, sitting in a boat and carefully fixing their torn fishing nets. John looks very young and bright. Watercolor style illustration, soft pastel colors, hand-drawn texture, warm and gentle lighting, glowing light particles."
+    },
+    {
+      "scene_id": "4-3",
+      "is_video": false,
+      "prompt": "James and John looking up from their nets, noticing Jesus. They have innocent, expressive faces with large eyes. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting."
+    },
+    {
+      "scene_id": "4-4",
+      "is_video": true,
+      "prompt": "James and John smiling brightly at each other, feeling happy to see Jesus. Chibi-like proportions, soft rounded features. Watercolor style illustration, soft pastel colors, hand-drawn texture, glowing light particles, dreamlike atmosphere."
+    },
+    {
+      "scene_id": "5-1",
+      "is_video": false,
+      "prompt": "Jesus warmly inviting James and John to join him. Jesus has a kind, gentle expression. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting, soft sparkles."
+    },
+    {
+      "scene_id": "5-2",
+      "is_video": true,
+      "prompt": "Close-up of James and John with extremely joyful and excited faces. Big expressive eyes filled with light. Watercolor style illustration, soft pastel colors, hand-drawn texture, glowing light particles, dreamlike atmosphere."
+    },
+    {
+      "scene_id": "5-3",
+      "is_video": false,
+      "prompt": "James and John waving goodbye to their father in the boat, looking very excited. Simple natural clothing. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting."
+    },
+    {
+      "scene_id": "5-4",
+      "is_video": true,
+      "prompt": "Jesus, Peter, Andrew, James, and John walking together happily along the beautiful shore. They are all smiling. Watercolor style illustration, soft pastel colors, hand-drawn texture, glowing light particles, dreamlike atmosphere, warm and cozy."
+    },
+    {
+      "scene_id": "6-1",
+      "is_video": false,
+      "prompt": "A small group of friends gathering around Jesus, listening to him with bright, innocent faces. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting."
+    },
+    {
+      "scene_id": "6-2",
+      "is_video": true,
+      "prompt": "A beautiful wide shot of Jesus walking with 12 disciples. They are a happy group of friends walking in nature. Watercolor style illustration, soft pastel colors, hand-drawn texture, glowing light particles, soft sparkles, dreamlike atmosphere."
+    },
+    {
+      "scene_id": "6-3",
+      "is_video": false,
+      "prompt": "Close-up of the disciples smiling and laughing together. Soft rounded features, large expressive eyes. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting."
+    },
+    {
+      "scene_id": "6-4",
+      "is_video": true,
+      "prompt": "Jesus and his friends sitting together on the green grass, Jesus is telling them a wonderful story. Everyone looks happy. Watercolor style illustration, soft pastel colors, hand-drawn texture, glowing light particles, dreamlike atmosphere."
+    },
+    {
+      "scene_id": "6-5",
+      "is_video": false,
+      "prompt": "The group of 12 friends walking towards a bright, beautiful glowing sunrise with Jesus. Hopeful and warm atmosphere. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting, soft sparkles, dreamlike."
+    }
+  ]
+}

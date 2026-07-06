@@ -1,0 +1,94 @@
+{
+  "theme_id": "jacob_and_esau_1",
+  "base_prompt": "Watercolor style illustration, Soft pastel colors, Hand-drawn texture, soft edges, warm and gentle lighting, glowing light particles, soft sparkles, Dreamlike atmosphere, warm and cozy --ar 16:9",
+  "scenes": [
+    {
+      "id": "0-1",
+      "prompt": "Two twin boys, Jacob and Esau standing together side by side. Jacob is a gentle boy in simple earth-tone clothes, Esau is an energetic boy with slightly messy hair in natural clothes. Innocent expressive eyes, chibi-like proportions. Watercolor style illustration, Soft pastel colors, Hand-drawn texture, soft edges, warm and gentle lighting, glowing light particles, soft sparkles, Dreamlike atmosphere, warm and cozy --ar 16:9"
+    },
+    {
+      "id": "1-1",
+      "prompt": "Isaac, a gentle father with a beard, and Rebekah, a gentle mother with long hair, standing together smiling in a beautiful natural landscape with a tent. Watercolor style illustration, Soft pastel colors, Hand-drawn texture, soft edges, warm and gentle lighting, glowing light particles, soft sparkles, Dreamlike atmosphere --ar 16:9"
+    },
+    {
+      "id": "1-3",
+      "prompt": "Two cute newborn twin babies sleeping peacefully in a simple woven basket cradle, wrapped in soft natural cloths. Rebekah looking at them with a loving smile. Watercolor style illustration, Soft pastel colors, Hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, Dreamlike atmosphere --ar 16:9"
+    },
+    {
+      "id": "1-4",
+      "prompt": "Close up of two toddler boys. One is Esau, slightly hairy and energetic, the other is Jacob, calm and gentle. Both have large innocent expressive eyes. Watercolor style illustration, Soft pastel colors, Hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, Dreamlike atmosphere --ar 16:9"
+    },
+    {
+      "id": "2-1",
+      "prompt": "Esau, an energetic boy with slightly messy hair, happily running outside in a sunny field with flowers. Watercolor style illustration, Soft pastel colors, Hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, Dreamlike atmosphere --ar 16:9"
+    },
+    {
+      "id": "2-2",
+      "prompt": "Esau holding a simple wooden bow, looking brave and strong in a beautiful forest. Watercolor style illustration, Soft pastel colors, Hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, Dreamlike atmosphere --ar 16:9"
+    },
+    {
+      "id": "2-3",
+      "prompt": "Jacob, a gentle boy, sitting comfortably inside a cozy warm tent. Watercolor style illustration, Soft pastel colors, Hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, Dreamlike atmosphere --ar 16:9"
+    },
+    {
+      "id": "2-4",
+      "prompt": "Jacob happily stirring a cooking pot inside the tent, helping with chores. Warm fire glow. Watercolor style illustration, Soft pastel colors, Hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, Dreamlike atmosphere --ar 16:9"
+    },
+    {
+      "id": "3-1",
+      "prompt": "Isaac patting Esau's head warmly, giving him a special blessing. Esau looks happy. Watercolor style illustration, Soft pastel colors, Hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, Dreamlike atmosphere --ar 16:9"
+    },
+    {
+      "id": "3-3",
+      "prompt": "Jacob looking up at the sky with a hopeful and dreamy expression, wishing for a special blessing. Innocent expressive eyes. Watercolor style illustration, Soft pastel colors, Hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, Dreamlike atmosphere --ar 16:9"
+    },
+    {
+      "id": "4-1",
+      "prompt": "Jacob carefully cooking a pot of delicious-looking red stew over a small fire. Watercolor style illustration, Soft pastel colors, Hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, Dreamlike atmosphere --ar 16:9"
+    },
+    {
+      "id": "4-2",
+      "prompt": "Close up of a wooden bowl filled with warm, steaming red stew. Soft warm steam rising. Watercolor style illustration, Soft pastel colors, Hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, Dreamlike atmosphere --ar 16:9"
+    },
+    {
+      "id": "4-3",
+      "prompt": "Esau walking towards the tent, looking very tired and exhausted from hunting, dragging his feet. Watercolor style illustration, Soft pastel colors, Hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, Dreamlike atmosphere --ar 16:9"
+    },
+    {
+      "id": "4-4",
+      "prompt": "Esau holding his stomach, looking very hungry and desperate. Watercolor style illustration, Soft pastel colors, Hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, Dreamlike atmosphere --ar 16:9"
+    },
+    {
+      "id": "4-5",
+      "prompt": "Esau pointing eagerly at the pot of red stew, looking pleadingly at Jacob. Jacob holding a wooden spoon. Watercolor style illustration, Soft pastel colors, Hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, Dreamlike atmosphere --ar 16:9"
+    },
+    {
+      "id": "5-1",
+      "prompt": "Jacob talking to Esau with a gentle but serious expression, holding the bowl of red stew. Watercolor style illustration, Soft pastel colors, Hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, Dreamlike atmosphere --ar 16:9"
+    },
+    {
+      "id": "5-2",
+      "prompt": "Esau nodding quickly and desperately, not caring about anything else but the food. Watercolor style illustration, Soft pastel colors, Hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, Dreamlike atmosphere --ar 16:9"
+    },
+    {
+      "id": "5-3",
+      "prompt": "Jacob handing the warm bowl of red stew to Esau. Watercolor style illustration, Soft pastel colors, Hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, Dreamlike atmosphere --ar 16:9"
+    },
+    {
+      "id": "5-4",
+      "prompt": "Esau eating the red stew hungrily and happily from the wooden bowl. Watercolor style illustration, Soft pastel colors, Hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, Dreamlike atmosphere --ar 16:9"
+    },
+    {
+      "id": "6-1",
+      "prompt": "Jacob holding a glowing golden light particle in his hands, symbolizing the special blessing. Peaceful and serene expression. Watercolor style illustration, Soft pastel colors, Hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, Dreamlike atmosphere --ar 16:9"
+    },
+    {
+      "id": "6-3",
+      "prompt": "Beautiful soft glowing light particles floating in a serene sky, symbolizing a precious gift from God. Watercolor style illustration, Soft pastel colors, Hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, Dreamlike atmosphere --ar 16:9"
+    },
+    {
+      "id": "6-4",
+      "prompt": "Jacob and Esau walking together in a beautiful landscape at sunset, the story continuing. Watercolor style illustration, Soft pastel colors, Hand-drawn texture, warm and gentle lighting, glowing light particles, soft sparkles, Dreamlike atmosphere --ar 16:9"
+    }
+  ]
+}

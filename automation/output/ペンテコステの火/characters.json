@@ -1,0 +1,21 @@
+{
+  "characters": [
+    {
+      "name": "イエスさま",
+      "description": "Gentle, glowing warm light, soft robes."
+    },
+    {
+      "name": "おでしたち",
+      "description": "Simple characters, earth-tone clothes, expressive eyes."
+    },
+    {
+      "name": "ペテロさん",
+      "description": "One of the disciples, speaking bravely."
+    },
+    {
+      "name": "まちのひとたち",
+      "description": "Diverse simple people with colorful pastel clothes."
+    }
+  ],
+  "notes": "神様が登場するシーン(2-3, 3-5)は既存画像(adam_and_eveのアセット)を流用するためキャラクターとしては定義しません。"
+}

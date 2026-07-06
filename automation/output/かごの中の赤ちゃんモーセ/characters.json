@@ -1,0 +1,41 @@
+{
+  "theme_id": "baby_moses",
+  "characters": [
+    {
+      "id": "baby_moses",
+      "name": "Baby Moses",
+      "description": "A cute newborn baby boy, simple soft rounded features, innocent facial expression, large expressive eyes, wrapped in soft white and earth-tone cloths.",
+      "notes": "Chibi-like proportions. Very innocent and soft."
+    },
+    {
+      "id": "mother_jochebed",
+      "name": "Mother (Jochebed)",
+      "description": "A loving Israelite mother with a gentle, worried face. Large expressive eyes, wearing simple natural earth-tone clothing (linen). Soft rounded features.",
+      "notes": "Shows a mix of deep love and sadness."
+    },
+    {
+      "id": "sister_miriam",
+      "name": "Sister (Miriam)",
+      "description": "A young Israelite girl, about 7 years old. Chibi-like proportions, large expressive eyes, simple natural clothing. Brave and watchful expression.",
+      "notes": "Often seen hiding behind reeds or looking from a distance."
+    },
+    {
+      "id": "egyptian_princess",
+      "name": "Egyptian Princess",
+      "description": "A kind and beautiful Egyptian princess. Elegant but soft features, large expressive eyes. Wearing white linen with subtle gold ornaments, but keeping the soft pastel watercolor style.",
+      "notes": "Her expression is compassionate and gentle."
+    },
+    {
+      "id": "pharaoh",
+      "name": "Pharaoh",
+      "description": "A stern Egyptian king. Wearing an Egyptian headdress, but keeping the art style soft and simple.",
+      "notes": "Appears in the background or briefly."
+    },
+    {
+      "id": "god",
+      "name": "God",
+      "description": "神様のキャラクター表現。画像生成は行わず、既存のアセット（adam_and_eve）を流用するため、プロンプトには使用しません。",
+      "notes": "流用対象"
+    }
+  ]
+}

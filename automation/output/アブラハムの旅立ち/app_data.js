@@ -1,0 +1,33 @@
+{
+    id: "abrahams_departure",
+    title: "アブラハムのたびだち",
+    cover: "./assets/abrahams_departure/images/シーン0-1.jpeg",
+    scenes: [
+        { id: "0-1", text: "アブラハムのたびだち", imagePath: "./assets/abrahams_departure/images/シーン0-1.jpeg" },
+        { id: "1-1", text: "むかしむかし、アブラムという おじいさんが いました。", imagePath: "./assets/abrahams_departure/images/シーン1-1.jpeg" },
+        { id: "1-2", text: "かみさまは アブラムに いいました。<br>「あなたの うまれた くにを はなれなさい。」", imagePath: "./assets/adam_and_eve/images/シーン1−2.jpeg" },
+        { id: "1-3", text: "「わたしが みせる あたらしい 土地へ いきなさい。」", imagePath: "./assets/adam_and_eve/images/シーン5−1.jpeg" },
+        { id: "1-4", text: "「そうすれば、あなたを おおきな くにに します。」", imagePath: "./assets/abrahams_departure/images/シーン1-4.jpeg" },
+        { id: "2-1", text: "アブラムは、かみさまの ことばを しんじました。", imagePath: "./assets/abrahams_departure/images/シーン2-1.jpeg" },
+        { id: "2-2", text: "おくさんの サライに いいました。<br>「かみさまが おっしゃる 土地へ いこう！」", imagePath: "./assets/abrahams_departure/images/シーン2-2.jpeg" },
+        { id: "2-3", text: "おいの ロトも いっしょに いくことに なりました。", imagePath: "./assets/abrahams_departure/images/シーン2-3.jpeg" },
+        { id: "2-4", text: "みんなで にもつを まとめて、たびの じゅんびを します。", imagePath: "./assets/abrahams_departure/images/シーン2-4.jpeg" },
+        { id: "3-1", text: "たくさんの ひつじや うしも いっしょです。", imagePath: "./assets/abrahams_departure/images/シーン3-1.jpeg" },
+        { id: "3-2", text: "アブラムたちは、とおくを めざして あるきだしました。", imagePath: "./assets/abrahams_departure/images/シーン3-2.jpeg" },
+        { id: "3-3", text: "どこへ いくのか、まだ わかりません。", imagePath: "./assets/abrahams_departure/images/シーン3-3.jpeg" },
+        { id: "3-4", text: "でも、アブラムは かみさまを しんじて いました。", imagePath: "./assets/abrahams_departure/images/シーン3-4.jpeg" },
+        { id: "3-5", text: "てんとを はって、よるは ぐっすり ねむりました。", imagePath: "./assets/abrahams_departure/images/シーン3-5.jpeg" },
+        { id: "4-1", text: "あつい さばくの みちも ありました。", imagePath: "./assets/abrahams_departure/images/シーン4-1.jpeg" },
+        { id: "4-2", text: "おおきな やまも こえました。", imagePath: "./assets/abrahams_departure/images/シーン4-2.jpeg" },
+        { id: "4-3", text: "かみさまは いつも アブラムたちを まもって くれました。", imagePath: "./assets/abrahams_departure/images/シーン4-3.jpeg" },
+        { id: "4-4", text: "ときどき、みずが なくて こまった ことも ありました。", imagePath: "./assets/abrahams_departure/images/シーン4-4.jpeg" },
+        { id: "5-1", text: "ある よる、かみさまが アブラムに いいました。<br>「よぞらの ほしを みてごらん。」", imagePath: "./assets/adam_and_eve/images/シーン1−2.jpeg" },
+        { id: "5-2", text: "「あなたの こどもたちは、この ほしのように たくさんになるよ。」", imagePath: "./assets/abrahams_departure/images/シーン5-2.jpeg" },
+        { id: "5-3", text: "アブラムは、おどろいて ほしぞらを みあげました。", imagePath: "./assets/abrahams_departure/images/シーン5-3.jpeg" },
+        { id: "5-4", text: "「かみさま、ありがとうございます。」", imagePath: "./assets/abrahams_departure/images/シーン5-4.jpeg" },
+        { id: "6-1", text: "ながい ながい たびを つづけました。", imagePath: "./assets/abrahams_departure/images/シーン6-1.jpeg" },
+        { id: "6-2", text: "そして ついに、カナンの 土地に つきました。", imagePath: "./assets/abrahams_departure/images/シーン6-2.jpeg" },
+        { id: "6-3", text: "「ここが、かみさまの やくそくの 土地だ！」", imagePath: "./assets/abrahams_departure/images/シーン6-3.jpeg" },
+        { id: "6-4", text: "アブラムは、かみさまに ありがとうのおいのりを しました。", imagePath: "./assets/abrahams_departure/images/シーン6-4.jpeg" }
+    ]
+}

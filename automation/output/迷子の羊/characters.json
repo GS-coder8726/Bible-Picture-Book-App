@@ -1,0 +1,28 @@
+{
+  "characters": [
+    {
+      "name": "Shepherd",
+      "japanese_name": "ひつじかい",
+      "description": "やさしい羊飼いの青年",
+      "features": [
+        "Simple character with innocent facial expression",
+        "Large and expressive eyes",
+        "Wearing simple, natural earth-tone clothing",
+        "Soft rounded features, chibi-like proportions",
+        "Holding a wooden shepherd's staff"
+      ]
+    },
+    {
+      "name": "Lost Sheep",
+      "japanese_name": "まいごのひつじ",
+      "description": "小さくて可愛い羊",
+      "features": [
+        "Small fluffy white sheep",
+        "Large and expressive eyes",
+        "Soft rounded features, chibi-like proportions",
+        "Cute and innocent"
+      ]
+    }
+  ],
+  "note": "神様のシーン(6-3)は既存アセット流用のため、新規キャラクター定義不要"
+}

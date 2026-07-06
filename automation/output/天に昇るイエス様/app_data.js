@@ -1,0 +1,33 @@
+{
+    id: "ascension",
+    title: "てんに のぼる イエスさま",
+    cover: "./assets/ascension/images/シーン0−1.jpeg",
+    scenes: [
+        { id: "0-1", text: "イエスさまが おそらに<br>のぼっていくよ。", imagePath: "./assets/ascension/images/シーン0−1.jpeg", placeholderImage: "./assets/ascension/images/シーン0−1.jpeg" },
+        { id: "1-1", text: "イエスさまが じゅうじかに かかった あと、<br>ふしぎな ことが おきました。", imagePath: "./assets/ascension/videos/シーン1−1.mp4", placeholderImage: "./assets/ascension/images/シーン1−1.jpeg" },
+        { id: "1-2", text: "イエスさまが、おはかから<br>よみがえったのです！", imagePath: "./assets/ascension/images/シーン1−2.jpeg", placeholderImage: "./assets/ascension/images/シーン1−2.jpeg" },
+        { id: "1-3", text: "イエスさまは、おでしさんたちの<br>ところに きました。", imagePath: "./assets/ascension/videos/シーン1−3.mp4", placeholderImage: "./assets/ascension/images/シーン1−3.jpeg" },
+        { id: "1-4", text: "みんな、イエスさまに あえて<br>とっても よろこびました。", imagePath: "./assets/ascension/images/シーン1−4.jpeg", placeholderImage: "./assets/ascension/images/シーン1−4.jpeg" },
+        { id: "2-1", text: "イエスさまは、みんなと いっしょに<br>ごはんを たべました。", imagePath: "./assets/ascension/images/シーン2−1.jpeg", placeholderImage: "./assets/ascension/images/シーン2−1.jpeg" },
+        { id: "2-2", text: "そして、かみさまの くにの ことを<br>たくさん おしえてくれました。", imagePath: "./assets/ascension/videos/シーン2−2.mp4", placeholderImage: "./assets/ascension/images/シーン2−2.jpeg" },
+        { id: "2-3", text: "「わたしは いつも<br>みんなと いっしょに いるよ」", imagePath: "./assets/ascension/images/シーン2−3.jpeg", placeholderImage: "./assets/ascension/images/シーン2−3.jpeg" },
+        { id: "2-4", text: "イエスさまの おはなしは、<br>とっても あたたかくて やさしいです。", imagePath: "./assets/ascension/videos/シーン2−4.mp4", placeholderImage: "./assets/ascension/images/シーン2−4.jpeg" },
+        { id: "3-1", text: "ある日、イエスさまは みんなを<br>おやまに あつめました。", imagePath: "./assets/ascension/images/シーン3−1.jpeg", placeholderImage: "./assets/ascension/images/シーン3−1.jpeg" },
+        { id: "3-2", text: "そして、たいせつな ことを<br>お話ししました。", imagePath: "./assets/ascension/videos/シーン3−2.mp4", placeholderImage: "./assets/ascension/images/シーン3−2.jpeg" },
+        { id: "3-3", text: "「せかいじゅうの 人に、<br>かみさまの あいを つたえなさい」", imagePath: "./assets/ascension/images/シーン3−3.jpeg", placeholderImage: "./assets/ascension/images/シーン3−3.jpeg" },
+        { id: "3-4", text: "「みんなを わたしの おでしさんに<br>しなさい」", imagePath: "./assets/ascension/videos/シーン3−4.mp4", placeholderImage: "./assets/ascension/images/シーン3−4.jpeg" },
+        { id: "4-1", text: "おはなしが おわると、<br>ふしぎな ことが おきました。", imagePath: "./assets/ascension/videos/シーン4−1.mp4", placeholderImage: "./assets/ascension/images/シーン4−1.jpeg" },
+        { id: "4-2", text: "イエスさまのからだが、<br>ふわっと ちゅうに うきました。", imagePath: "./assets/ascension/videos/シーン4−2.mp4", placeholderImage: "./assets/ascension/images/シーン4−2.jpeg" },
+        { id: "4-3", text: "イエスさまは、すこしずつ<br>おそらに のぼっていきます。", imagePath: "./assets/ascension/images/シーン4−3.jpeg", placeholderImage: "./assets/ascension/images/シーン4−3.jpeg" },
+        { id: "4-4", text: "「イエスさま、どこに<br>いっちゃうの？」", imagePath: "./assets/ascension/videos/シーン4−4.mp4", placeholderImage: "./assets/ascension/images/シーン4−4.jpeg" },
+        { id: "5-1", text: "やさしい ひかりに つつまれて、<br>イエスさまは どんどん のぼります。", imagePath: "./assets/ascension/videos/シーン5−1.mp4", placeholderImage: "./assets/ascension/images/シーン5−1.jpeg" },
+        { id: "5-2", text: "白い くもが、イエスさまを<br>やさしく つつみました。", imagePath: "./assets/ascension/images/シーン5−2.jpeg", placeholderImage: "./assets/ascension/images/シーン5−2.jpeg" },
+        { id: "5-3", text: "みんなは、ずっと ずっと<br>おそらを みあげていました。", imagePath: "./assets/ascension/videos/シーン5−3.mp4", placeholderImage: "./assets/ascension/images/シーン5−3.jpeg" },
+        { id: "5-4", text: "みんなの こころは、<br>イエスさまの あいで いっぱいです。", imagePath: "./assets/ascension/images/シーン5−4.jpeg", placeholderImage: "./assets/ascension/images/シーン5−4.jpeg" },
+        { id: "6-1", text: "すると、しろい ふくを きた<br>てんしが あらわれました。", imagePath: "./assets/ascension/images/シーン6−1.jpeg", placeholderImage: "./assets/ascension/images/シーン6−1.jpeg" },
+        { id: "6-2", text: "「イエスさまは、また いつか<br>おなじように かえってきますよ」", imagePath: "./assets/ascension/videos/シーン6−2.mp4", placeholderImage: "./assets/ascension/images/シーン6−2.jpeg" },
+        { id: "6-3", text: "てんしは、みんなに<br>そう おしえてくれました。", imagePath: "./assets/ascension/images/シーン6−3.jpeg", placeholderImage: "./assets/ascension/images/シーン6−3.jpeg" },
+        { id: "6-4", text: "みんなは よろこんで、<br>かみさまの あいを つたえに いきました。", imagePath: "./assets/ascension/videos/シーン6−4.mp4", placeholderImage: "./assets/ascension/images/シーン6−4.jpeg" },
+        { id: "6-5", text: "イエスさまは、おそらの かみさまの<br>ところで みんなを みまもっています。", imagePath: "./assets/adam_and_eve/images/シーン1−2.jpeg", placeholderImage: "./assets/adam_and_eve/images/シーン1−2.jpeg" }
+    ]
+}

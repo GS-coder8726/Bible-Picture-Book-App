@@ -1,0 +1,32 @@
+{
+    id: "jacob_and_esau_3",
+    title: "ヤコブとエサウ③",
+    cover: "./assets/jacob_and_esau_3/images/シーン0−1.jpeg",
+    scenes: [
+        { id: "0-1", text: "ヤコブとエサウの なかなおり", imagePath: "./assets/jacob_and_esau_3/videos/シーン0−1.mp4", placeholderImage: "./assets/jacob_and_esau_3/images/シーン0−1.jpeg" },
+        { id: "1-1", text: "やこぶは、とおくに すんでいました。<br>かぞくや どうぶつが、たくさん ふえました。", imagePath: "./assets/jacob_and_esau_3/images/シーン1−1.jpeg", placeholderImage: "./assets/jacob_and_esau_3/images/シーン1−1.jpeg" },
+        { id: "1-2", text: "あるひ、かみさまが やこぶに いいました。<br>「ふるさとに かえりなさい。」", imagePath: "./assets/adam_and_eve/images/シーン1−2.jpeg", placeholderImage: "./assets/adam_and_eve/images/シーン1−2.jpeg" },
+        { id: "1-3", text: "「わたしが あなたを まもります。」", imagePath: "./assets/adam_and_eve/images/シーン1−2.jpeg", placeholderImage: "./assets/adam_and_eve/images/シーン1−2.jpeg" },
+        { id: "1-4", text: "やこぶは、ふるさとに かえることに しました。", imagePath: "./assets/jacob_and_esau_3/videos/シーン1−4.mp4", placeholderImage: "./assets/jacob_and_esau_3/images/シーン1−4.jpeg" },
+        { id: "2-1", text: "でも、やこぶは とても こわくなりました。<br>「おにいさんの えさうは、まだ おこっているかな？」", imagePath: "./assets/jacob_and_esau_3/images/シーン2−1.jpeg", placeholderImage: "./assets/jacob_and_esau_3/images/シーン2−1.jpeg" },
+        { id: "2-2", text: "そこで、えさうに たくさんの プレゼントを おくることに しました。", imagePath: "./assets/jacob_and_esau_3/videos/シーン2−2.mp4", placeholderImage: "./assets/jacob_and_esau_3/images/シーン2−2.jpeg" },
+        { id: "2-3", text: "やぎや ひつじなどを あつめました。<br>「これを おにいさんに わたしてください。」", imagePath: "./assets/jacob_and_esau_3/videos/シーン2−3.mp4", placeholderImage: "./assets/jacob_and_esau_3/images/シーン2−3.jpeg" },
+        { id: "3-1", text: "よるに なりました。<br>やこぶは ひとりで おいのりを します。", imagePath: "./assets/jacob_and_esau_3/images/シーン3−1.jpeg", placeholderImage: "./assets/jacob_and_esau_3/images/シーン3−1.jpeg" },
+        { id: "3-2", text: "「かみさま、どうか わたしを たすけてください。」", imagePath: "./assets/jacob_and_esau_3/videos/シーン3−2.mp4", placeholderImage: "./assets/jacob_and_esau_3/images/シーン3−2.jpeg" },
+        { id: "3-3", text: "そのとき、ふしぎな ひとが あらわれました。", imagePath: "./assets/jacob_and_esau_3/images/シーン3−3.jpeg", placeholderImage: "./assets/jacob_and_esau_3/images/シーン3−3.jpeg" },
+        { id: "3-4", text: "やこぶは、あさまで すもうを とり、「わたしを しゅくふくしてください！」と おねがいしました。", imagePath: "./assets/jacob_and_esau_3/videos/シーン3−4.mp4", placeholderImage: "./assets/jacob_and_esau_3/images/シーン3−4.jpeg" },
+        { id: "3-5", text: "かみさまは やこぶを しゅくふくしました。", imagePath: "./assets/adam_and_eve/images/シーン1−2.jpeg", placeholderImage: "./assets/adam_and_eve/images/シーン1−2.jpeg" },
+        { id: "4-1", text: "つぎのあさ、とおくから えさうが やってきました。", imagePath: "./assets/jacob_and_esau_3/images/シーン4−1.jpeg", placeholderImage: "./assets/jacob_and_esau_3/images/シーン4−1.jpeg" },
+        { id: "4-2", text: "やこぶは ドキドキしながら、まえに すすみます。", imagePath: "./assets/jacob_and_esau_3/videos/シーン4−2.mp4", placeholderImage: "./assets/jacob_and_esau_3/images/シーン4−2.jpeg" },
+        { id: "4-3", text: "そして、えさうの まえで ７かい おじぎを しました。", imagePath: "./assets/jacob_and_esau_3/images/シーン4−3.jpeg", placeholderImage: "./assets/jacob_and_esau_3/images/シーン4−3.jpeg" },
+        { id: "5-1", text: "すると、えさうは はしってきました。", imagePath: "./assets/jacob_and_esau_3/videos/シーン5−1.mp4", placeholderImage: "./assets/jacob_and_esau_3/images/シーン5−1.jpeg" },
+        { id: "5-2", text: "えさうは やこぶを ギュッと だきしめました。", imagePath: "./assets/jacob_and_esau_3/videos/シーン5−2.mp4", placeholderImage: "./assets/jacob_and_esau_3/images/シーン5−2.jpeg" },
+        { id: "5-3", text: "ふたりは なきながら、よろこびあいました。", imagePath: "./assets/jacob_and_esau_3/videos/シーン5−3.mp4", placeholderImage: "./assets/jacob_and_esau_3/images/シーン5−3.jpeg" },
+        { id: "5-4", text: "「やこぶ、よく かえってきたね。」<br>えさうは やこぶを ゆるして くれました。", imagePath: "./assets/jacob_and_esau_3/images/シーン5−4.jpeg", placeholderImage: "./assets/jacob_and_esau_3/images/シーン5−4.jpeg" },
+        { id: "6-1", text: "やこぶは、えさうに プレゼントを わたしました。", imagePath: "./assets/jacob_and_esau_3/videos/シーン6−1.mp4", placeholderImage: "./assets/jacob_and_esau_3/images/シーン6−1.jpeg" },
+        { id: "6-2", text: "えさうは よろこんで うけとりました。", imagePath: "./assets/jacob_and_esau_3/images/シーン6−2.jpeg", placeholderImage: "./assets/jacob_and_esau_3/images/シーン6−2.jpeg" },
+        { id: "6-3", text: "かみさまが、ふたりを なかよしに してくれたのです。", imagePath: "./assets/adam_and_eve/images/シーン1−2.jpeg", placeholderImage: "./assets/adam_and_eve/images/シーン1−2.jpeg" },
+        { id: "6-4", text: "やこぶの かぞくも みんな ニコニコです。", imagePath: "./assets/jacob_and_esau_3/images/シーン6−4.jpeg", placeholderImage: "./assets/jacob_and_esau_3/images/シーン6−4.jpeg" },
+        { id: "6-5", text: "ふたりは また なかよく なりました。", imagePath: "./assets/jacob_and_esau_3/videos/シーン6−5.mp4", placeholderImage: "./assets/jacob_and_esau_3/images/シーン6−5.jpeg" }
+    ]
+}

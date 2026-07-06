@@ -1,0 +1,29 @@
+{
+  "characters": [
+    {
+      "id": "jesus",
+      "name": "イエスさま",
+      "description": "Warm, gentle smiling man, brown hair, simple light-colored robe"
+    },
+    {
+      "id": "boy",
+      "name": "男の子",
+      "description": "Innocent small boy, large expressive eyes, holding a small basket"
+    },
+    {
+      "id": "disciples",
+      "name": "お弟子たち",
+      "description": "A few men standing near Jesus, looking surprised or helpful"
+    },
+    {
+      "id": "crowd",
+      "name": "群衆",
+      "description": "A large group of people sitting on the green grass, families and children"
+    },
+    {
+      "id": "god",
+      "name": "神様",
+      "description": "単独シーンは既存画像を流用。生成不要"
+    }
+  ]
+}

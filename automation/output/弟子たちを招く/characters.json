@@ -1,0 +1,65 @@
+{
+  "characters": [
+    {
+      "id": "jesus",
+      "name": "Jesus",
+      "description": "A kind and gentle man, wearing a simple white and light blue robe. He has soft brown hair, a short beard, and a warm, inviting smile.",
+      "traits": [
+        "Simple character with innocent facial expressions",
+        "Large and expressive eyes",
+        "Soft rounded features",
+        "Warm, gentle smile",
+        "Simple white and earth-tone robe"
+      ]
+    },
+    {
+      "id": "peter",
+      "name": "Peter",
+      "description": "A strong but gentle fisherman with a slightly larger build. He wears a simple earth-tone tunic (brown or beige) and has messy dark hair.",
+      "traits": [
+        "Simple character with innocent facial expressions",
+        "Large and expressive eyes",
+        "Soft rounded features",
+        "Simple natural clothing",
+        "Messy hair, strong but soft face"
+      ]
+    },
+    {
+      "id": "andrew",
+      "name": "Andrew",
+      "description": "Peter's younger brother, slender and enthusiastic. Wears a light green or beige tunic. Has a cheerful expression.",
+      "traits": [
+        "Simple character with innocent facial expressions",
+        "Large and expressive eyes",
+        "Soft rounded features",
+        "Simple natural clothing",
+        "Cheerful, slender"
+      ]
+    },
+    {
+      "id": "james",
+      "name": "James",
+      "description": "A focused and sturdy young man, wearing an earth-tone reddish-brown tunic. He looks dependable.",
+      "traits": [
+        "Simple character with innocent facial expressions",
+        "Large and expressive eyes",
+        "Soft rounded features",
+        "Simple natural clothing",
+        "Sturdy, focused look"
+      ]
+    },
+    {
+      "id": "john",
+      "name": "John",
+      "description": "The youngest of the group, very energetic and bright. Wears a light yellow or beige tunic. He has a very youthful face.",
+      "traits": [
+        "Simple character with innocent facial expressions",
+        "Large and expressive eyes",
+        "Soft rounded features, chibi-like proportions",
+        "Simple natural clothing",
+        "Youthful, bright expression"
+      ]
+    }
+  ],
+  "note": "God the Father is not included as a character to generate, existing images from the adam_and_eve theme will be reused for scenes 1-1 and 1-2."
+}

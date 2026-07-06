@@ -1,0 +1,25 @@
+{
+  "theme_id": "crucifixion",
+  "characters": [
+    {
+      "id": "jesus",
+      "name": "イエスさま",
+      "description": "Loving and gentle man, wearing simple earth-tone robes (white or light brown), warm eyes, soft facial features, shoulder-length wavy hair, small beard."
+    },
+    {
+      "id": "disciples",
+      "name": "おともだち（弟子たち）",
+      "description": "Simple characters with innocent facial expressions, wearing simple natural clothing, large expressive eyes."
+    },
+    {
+      "id": "angel",
+      "name": "てんし",
+      "description": "A beautiful angel with glowing white robes, warm gentle smile, soft glowing wings, glowing light particles."
+    },
+    {
+      "id": "god",
+      "name": "かみさま",
+      "description": "画像は既存のアダムとエバのシーン（./assets/adam_and_eve/images/シーン1−2.jpeg）を流用するため、新規生成は行いません。"
+    }
+  ]
+}

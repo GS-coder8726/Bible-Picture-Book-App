@@ -1,0 +1,148 @@
+{
+  "theme_id": "jacob_and_esau_2",
+  "scenes": [
+    {
+      "id": "0-1",
+      "is_video": false,
+      "prompt": "Cover image. A split scene showing Jacob (a young boy with smooth skin in an earth-tone tunic) and Esau (a young boy in animal skin clothes holding a bow), both with large expressive eyes and chibi-like proportions, looking at each other. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere, warm and cozy."
+    },
+    {
+      "id": "1-1",
+      "is_video": false,
+      "prompt": "An old gentle man named Isaac with a white beard, sitting peacefully in his tent, looking very old and frail. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere, warm and cozy."
+    },
+    {
+      "id": "1-2",
+      "is_video": true,
+      "prompt": "Close-up of the old father Isaac's face. His eyes are closed and faded to show he is blind, but his expression is gentle. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting, glowing light particles, soft sparkles, dreamlike atmosphere.",
+      "video_prompt": "Isaac's white beard sways gently in the breeze, and soft glowing light particles float slowly around him."
+    },
+    {
+      "id": "1-3",
+      "is_video": false,
+      "prompt": "Old father Isaac, resting in his bed, calling out with a raised hand. Beside him stands Esau, a hairy boy in animal skin clothes holding a bow. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting."
+    },
+    {
+      "id": "1-4",
+      "is_video": true,
+      "prompt": "Isaac speaking kindly to Esau, pointing towards the door. Esau listening happily. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting, soft sparkles.",
+      "video_prompt": "Isaac's mouth moves as he speaks softly, and Esau nods enthusiastically, light sparkles shimmering in the air."
+    },
+    {
+      "id": "2-1",
+      "is_video": true,
+      "prompt": "Esau, carrying his wooden bow, walking out of the tent into a beautiful sunny field to hunt. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting, glowing light particles.",
+      "video_prompt": "Esau walks forward through the tall grass, his animal skin clothing swaying, and glowing light particles float in the breeze."
+    },
+    {
+      "id": "2-2",
+      "is_video": false,
+      "prompt": "Esau looking determined and strong, holding his bow, searching for animals in the beautiful wilderness. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting."
+    },
+    {
+      "id": "2-3",
+      "is_video": true,
+      "prompt": "Rebekah, the loving mother in a simple dress, peeking from behind the tent curtain, secretly listening. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting.",
+      "video_prompt": "Rebekah slightly moves the tent curtain, her eyes wide as she listens carefully, soft light reflecting on her face."
+    },
+    {
+      "id": "2-4",
+      "is_video": false,
+      "prompt": "Rebekah smiling warmly, holding the hands of young Jacob (a boy with smooth skin in an earth-tone tunic). Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting, soft sparkles."
+    },
+    {
+      "id": "3-1",
+      "is_video": false,
+      "prompt": "Rebekah talking earnestly to Jacob inside the cozy tent. Jacob is listening carefully. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting."
+    },
+    {
+      "id": "3-2",
+      "is_video": true,
+      "prompt": "Rebekah whispering a secret plan to Jacob. Jacob looks surprised with wide expressive eyes. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting, glowing light particles.",
+      "video_prompt": "Rebekah leans in to whisper, and Jacob blinks his large expressive eyes in surprise, dust motes glowing in the sunbeam."
+    },
+    {
+      "id": "3-3",
+      "is_video": true,
+      "prompt": "Jacob touching his own smooth arm, looking worried and anxious. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting.",
+      "video_prompt": "Jacob rubs his smooth arm with a worried expression, slightly tilting his head, soft warm light surrounding him."
+    },
+    {
+      "id": "3-4",
+      "is_video": false,
+      "prompt": "Jacob looking nervous, imagining his father getting angry. A small thought bubble above him. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting."
+    },
+    {
+      "id": "4-1",
+      "is_video": true,
+      "prompt": "Rebekah dressing Jacob in Esau's larger animal skin clothes. Jacob looks small inside the clothes. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting.",
+      "video_prompt": "Rebekah gently adjusts the animal skin clothes on Jacob, the fabric shifting softly in the warm light."
+    },
+    {
+      "id": "4-2",
+      "is_video": false,
+      "prompt": "Rebekah wrapping pieces of fuzzy goat skin around Jacob's arms and neck. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting, soft sparkles."
+    },
+    {
+      "id": "4-3",
+      "is_video": true,
+      "prompt": "Jacob showing off his fuzzy goat skin arms, looking a bit more confident. Rebekah smiling proudly. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting.",
+      "video_prompt": "Jacob raises his arms covered in fuzzy goat skin, showing them to his mother, who smiles and nods warmly."
+    },
+    {
+      "id": "4-4",
+      "is_video": false,
+      "prompt": "Jacob carefully holding a delicious-looking bowl of food prepared by his mother. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting, glowing light particles."
+    },
+    {
+      "id": "5-1",
+      "is_video": true,
+      "prompt": "Jacob, disguised in animal skins, slowly entering the dark tent of his blind father Isaac, holding the bowl of food. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting.",
+      "video_prompt": "Jacob takes slow, cautious steps into the tent, holding the bowl steady as the tent flap gently sways behind him."
+    },
+    {
+      "id": "5-2",
+      "is_video": false,
+      "prompt": "Jacob standing close to blind Isaac's bed, holding out the bowl of food. Isaac looks curious. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting."
+    },
+    {
+      "id": "5-3",
+      "is_video": true,
+      "prompt": "Blind Isaac reaching out to touch Jacob's arm wrapped in fuzzy goat skin. Jacob looks nervous. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting.",
+      "video_prompt": "Isaac's aged hand gently strokes the fuzzy goat skin on Jacob's arm, while Jacob holds his breath in nervous anticipation."
+    },
+    {
+      "id": "5-4",
+      "is_video": false,
+      "prompt": "Isaac placing his hands on Jacob's head, giving him a special, warm blessing. Glowing golden light surrounds them. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting, glowing light particles."
+    },
+    {
+      "id": "6-1",
+      "is_video": true,
+      "prompt": "Esau returning to the tent, carrying his bow and looking happy. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting.",
+      "video_prompt": "Esau walks cheerfully towards the tent, the leaves on the ground rustling and light particles floating around him."
+    },
+    {
+      "id": "6-2",
+      "is_video": true,
+      "prompt": "Esau realizing he has been tricked, looking shocked and very angry. His hands are clenched into fists. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting.",
+      "video_prompt": "Esau's expression changes to sudden shock and anger, clenching his fists as dust swirls around his feet."
+    },
+    {
+      "id": "6-3",
+      "is_video": false,
+      "prompt": "Esau shouting in anger, looking very upset. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting, dynamic composition."
+    },
+    {
+      "id": "6-4",
+      "is_video": true,
+      "prompt": "Jacob, carrying a small bag, running away from the camp in a hurry. He looks scared. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting.",
+      "video_prompt": "Jacob runs away quickly, his small bag bouncing on his back, leaving the camp behind in the soft sunlight."
+    },
+    {
+      "id": "6-5",
+      "is_video": false,
+      "prompt": "A beautiful wide landscape showing Jacob walking alone on a path towards the distant mountains, starting a new journey. Watercolor style illustration, soft pastel colors, hand-drawn texture, soft edges, warm and gentle lighting, glowing light particles, dreamlike atmosphere."
+    }
+  ]
+}

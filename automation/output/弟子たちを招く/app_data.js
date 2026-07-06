@@ -1,0 +1,33 @@
+{
+    id: "calling_disciples",
+    title: "イエスさまと 12にんの でしたち",
+    cover: "./assets/calling_disciples/images/シーン0−1.jpeg",
+    scenes: [
+        { id: "0-1", text: "イエスさまと\n12にんの でしたち", imagePath: "./assets/calling_disciples/images/シーン0−1.jpeg", placeholderImage: "..." },
+        { id: "1-1", text: "かみさまは、おそらから<br>せかいを みて いました。", imagePath: "./assets/adam_and_eve/images/シーン1−2.jpeg", placeholderImage: "..." },
+        { id: "1-2", text: "「せかいの みんなに、<br>たいせつな ことを つたえよう」と おもいました。", imagePath: "./assets/adam_and_eve/images/シーン1−2.jpeg", placeholderImage: "..." },
+        { id: "1-3", text: "そこで、イエスさまは<br>うみの ほとりを あるき はじめました。", imagePath: "./assets/calling_disciples/images/シーン1−3.jpeg", placeholderImage: "..." },
+        { id: "1-4", text: "おてつだいを してくれる<br>おともだちを さがして いるのです。", videoPath: "./assets/calling_disciples/videos/シーン1−4.mp4", imagePath: "./assets/calling_disciples/images/シーン1−4.jpeg", placeholderImage: "..." },
+        { id: "2-1", text: "うみには、ペテロと アンデレという<br>きょうだいが いました。", imagePath: "./assets/calling_disciples/images/シーン2−1.jpeg", placeholderImage: "..." },
+        { id: "2-2", text: "ふたりは いっしょうけんめい、<br>あみを なげて います。", videoPath: "./assets/calling_disciples/videos/シーン2−2.mp4", imagePath: "./assets/calling_disciples/images/シーン2−2.jpeg", placeholderImage: "..." },
+        { id: "2-3", text: "おさかなを とる おしごとを<br>して いるのです。", imagePath: "./assets/calling_disciples/images/シーン2−3.jpeg", placeholderImage: "..." },
+        { id: "2-4", text: "だけど、きょうは<br>なかなか おさかなが とれません。", videoPath: "./assets/calling_disciples/videos/シーン2−4.mp4", imagePath: "./assets/calling_disciples/images/シーン2−4.jpeg", placeholderImage: "..." },
+        { id: "3-1", text: "イエスさまは、<br>ふたりに こえを かけました。", imagePath: "./assets/calling_disciples/images/シーン3−1.jpeg", placeholderImage: "..." },
+        { id: "3-2", text: "「わたしに ついて きなさい。」", videoPath: "./assets/calling_disciples/videos/シーン3−2.mp4", imagePath: "./assets/calling_disciples/images/シーン3−2.jpeg", placeholderImage: "..." },
+        { id: "3-3", text: "「にんげんを とる りょうしに<br>して あげよう。」", imagePath: "./assets/calling_disciples/images/シーン3−3.jpeg", placeholderImage: "..." },
+        { id: "3-4", text: "すると ふたりは、すぐに あみを おいて、<br>イエスさまに ついて いきました。", videoPath: "./assets/calling_disciples/videos/シーン3−4.mp4", imagePath: "./assets/calling_disciples/images/シーン3−4.jpeg", placeholderImage: "..." },
+        { id: "4-1", text: "すこし あるくと、<br>また べつの ふねが ありました。", imagePath: "./assets/calling_disciples/images/シーン4−1.jpeg", placeholderImage: "..." },
+        { id: "4-2", text: "ヤコブと ヨハネという<br>きょうだいが いました。", videoPath: "./assets/calling_disciples/videos/シーン4−2.mp4", imagePath: "./assets/calling_disciples/images/シーン4−2.jpeg", placeholderImage: "..." },
+        { id: "4-3", text: "ふたりは、やぶれた あみを<br>きれいに なおして います。", imagePath: "./assets/calling_disciples/images/シーン4−3.jpeg", placeholderImage: "..." },
+        { id: "4-4", text: "とても しんせつで、<br>げんきな おとこのこたち です。", videoPath: "./assets/calling_disciples/videos/シーン4−4.mp4", imagePath: "./assets/calling_disciples/images/シーン4−4.jpeg", placeholderImage: "..." },
+        { id: "5-1", text: "イエスさまは、この ふたりにも<br>こえを かけました。", imagePath: "./assets/calling_disciples/images/シーン5−1.jpeg", placeholderImage: "..." },
+        { id: "5-2", text: "ヤコブと ヨハネは、イエスさまの<br>やさしい かおを みて うれしく なりました。", videoPath: "./assets/calling_disciples/videos/シーン5−2.mp4", imagePath: "./assets/calling_disciples/images/シーン5−2.jpeg", placeholderImage: "..." },
+        { id: "5-3", text: "おとうさんに 「いってきます！」と いって、<br>ふねを おりました。", imagePath: "./assets/calling_disciples/images/シーン5−3.jpeg", placeholderImage: "..." },
+        { id: "5-4", text: "イエスさまと いっしょに、<br>とことこ あるき はじめました。", videoPath: "./assets/calling_disciples/videos/シーン5−4.mp4", imagePath: "./assets/calling_disciples/images/シーン5−4.jpeg", placeholderImage: "..." },
+        { id: "6-1", text: "こうして、イエスさまの まわりに<br>おともだちが ふえて いきました。", imagePath: "./assets/calling_disciples/images/シーン6−1.jpeg", placeholderImage: "..." },
+        { id: "6-2", text: "ぜんぶで 12にんの たいせつな<br>おともだちが あつまりました。", videoPath: "./assets/calling_disciples/videos/シーン6−2.mp4", imagePath: "./assets/calling_disciples/images/シーン6−2.jpeg", placeholderImage: "..." },
+        { id: "6-3", text: "みんな、イエスさまの ことが<br>だいすきです。", imagePath: "./assets/calling_disciples/images/シーン6−3.jpeg", placeholderImage: "..." },
+        { id: "6-4", text: "みんなで いっしょに、かみさまの<br>おはなしを つたえに いきます。", videoPath: "./assets/calling_disciples/videos/シーン6−4.mp4", imagePath: "./assets/calling_disciples/images/シーン6−4.jpeg", placeholderImage: "..." },
+        { id: "6-5", text: "さあ、どんな わくわくする<br>おはなしが はじまるのかな？", imagePath: "./assets/calling_disciples/images/シーン6−5.jpeg", placeholderImage: "..." }
+    ]
+}

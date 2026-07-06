@@ -1,0 +1,26 @@
+{
+  "theme": "abraham_and_isaac",
+  "characters": [
+    {
+      "name": "Abraham",
+      "description": "An old man with a long white beard, kind eyes, wearing a simple earthy-brown robe. Wise and gentle appearance.",
+      "keywords": "old man, long white beard, kind eyes, simple earthy-brown robe, gentle expression"
+    },
+    {
+      "name": "Sarah",
+      "description": "An old woman with gray hair, wearing a simple linen dress, smiling softly.",
+      "keywords": "old woman, gray hair, simple linen dress, gentle smile"
+    },
+    {
+      "name": "Isaac",
+      "description": "A young boy around 8-10 years old. Innocent face, large expressive eyes, short brown hair, wearing a simple light-colored tunic.",
+      "keywords": "young boy, innocent face, large expressive eyes, short brown hair, simple light tunic"
+    },
+    {
+      "name": "Angel",
+      "description": "A beautiful glowing angel with soft white wings and a glowing aura, wearing a flowing white robe.",
+      "keywords": "glowing angel, soft white wings, glowing aura, flowing white robe, divine light"
+    }
+  ],
+  "note": "God's image is reused from the adam_and_eve theme."
+}
