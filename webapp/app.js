@@ -1129,7 +1129,7 @@ const books = [
             { id: "6-5", text: "さあ、どんな わくわくする<br>おはなしが はじまるのかな？", imagePath: "./assets/calling_disciples/images/シーン6−5.jpeg", placeholderImage: "..." }
         ]
     },
-    export const theme_five_loaves = {
+    {
         id: "five_loaves",
         title: "5つの パンと 2ひきの さかな",
         cover: "./assets/five_loaves/images/シーン0−1.jpeg",
