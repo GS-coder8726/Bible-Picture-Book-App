@@ -5,8 +5,6 @@ const appJsPath = '/Users/goya/Documents/Antigravity/聖書絵本制作/webapp/a
 const outputDir = '/Users/goya/Documents/Antigravity/聖書絵本制作/automation/output/';
 
 const themeOrder = [
-    'paradise-lost',
-    'cain_and_abel',
     'noahs_ark',
     'abrahams_departure',
     'isaacs_birth',
@@ -34,24 +32,15 @@ const themeOrder = [
 async function run() {
     let appJs = fs.readFileSync(appJsPath, 'utf8');
 
-    // Match the entire line of the comment so we don't leave trailing text
-    const booksMatch = appJs.match(/const books = \[([\s\S]*?)\];\n\n\/\/ 全ての絵本の最後に「おしまい」のシーンを自動追加/);
-    if (!booksMatch) {
-        console.error("Could not find books array in app.js");
+    // Find the start of the first stub: noahs_ark
+    const startOfStub = appJs.indexOf('    { id: "noahs_ark",');
+    if (startOfStub === -1) {
+        console.error("Could not find start of noahs_ark stub");
         return;
     }
     
-    const creationMatch = appJs.match(/\{\s*id:\s*"creation"[\s\S]*?\}\n\s+\},\n/);
-    const adamEveMatch = appJs.match(/\{\s*id:\s*"adam_and_eve"[\s\S]*?\}\n\s+\}(,\n)?/);
-    
-    let newBooksStr = 'const books = [\n';
-    
-    if (creationMatch) {
-        newBooksStr += '    ' + creationMatch[0].trim().replace(/,\n$/, '') + ',\n';
-    }
-    if (adamEveMatch) {
-        newBooksStr += '    ' + adamEveMatch[0].trim().replace(/,\n$/, '') + ',\n';
-    }
+    // We keep everything before the stub. This includes `creation`, `adam_and_eve`, `paradise-lost`, `cain_and_abel`.
+    let newBooksStr = appJs.substring(0, startOfStub);
 
     for (let i = 0; i < themeOrder.length; i++) {
         const theme = themeOrder[i];
@@ -98,12 +87,19 @@ async function run() {
         }
     }
     
-    // Add back the closing bracket and the comment exactly as it was matched
+    // Add closing bracket and the comment exactly as it was
     newBooksStr += '];\n\n// 全ての絵本の最後に「おしまい」のシーンを自動追加';
     
-    const newAppJs = appJs.replace(booksMatch[0], newBooksStr);
+    const endCommentIndex = appJs.indexOf('// 全ての絵本の最後に「おしまい」のシーンを自動追加');
+    if (endCommentIndex === -1) {
+        console.error("Could not find the end comment in app.js");
+        return;
+    }
+    const endOfCommentLine = appJs.indexOf('\n', endCommentIndex);
     
-    fs.writeFileSync(appJsPath, newAppJs);
+    const finalAppJs = newBooksStr + appJs.substring(endOfCommentLine !== -1 ? endOfCommentLine : appJs.length);
+    
+    fs.writeFileSync(appJsPath, finalAppJs);
     console.log("Successfully updated app.js");
 }
 
