@@ -1084,7 +1084,7 @@ const books = [
             { id: "3-5", text: "うしさんや ろばさんも、あかちゃんを みまもっています。", imagePath: "./assets/birth_of_jesus/images/シーン3-5.jpeg", videoPath: "./assets/birth_of_jesus/videos/シーン3-5.mp4", placeholderImage: "..." },
             { id: "4-1", text: "そのころ、のっぱらで ひつじかいたちが ひつじの おせわを していました。", imagePath: "./assets/birth_of_jesus/images/シーン4-1.jpeg", placeholderImage: "..." },
             { id: "4-2", text: "すると、ぴかーっと ひかって、てんしが あらわれました。", imagePath: "./assets/birth_of_jesus/images/シーン4-2.jpeg", videoPath: "./assets/birth_of_jesus/videos/シーン4-2.mp4", placeholderImage: "..." },
-            { id: "4-3", text: "「きょう、いえすさまが うまれましたよ。<br>おほしさまを みて ごらん。」", imagePath: "./assets/birth_of_jesus/images/シーン4-3.jpeg", placeholderImage: "..." },
+            { id: "4-3", text: "「きょう、いえすさまが うまれましたよ。<br>うまごやに いってごらん。」", imagePath: "./assets/birth_of_jesus/images/シーン4-3.jpeg", placeholderImage: "..." },
             { id: "4-4", text: "ひつじかいたちは びっくりして、あかちゃんに あいに いきました。", imagePath: "./assets/birth_of_jesus/images/シーン4-4.jpeg", videoPath: "./assets/birth_of_jesus/videos/シーン4-4.mp4", placeholderImage: "..." },
             { id: "5-1", text: "とおくの くにの、はかせたちも おおきな ほしを みつけました。", imagePath: "./assets/birth_of_jesus/images/シーン5-1.jpeg", placeholderImage: "..." },
             { id: "5-2", text: "「すばらしい あかちゃんが うまれたんだ！」<br>らくだに のって、しゅっぱつです。", imagePath: "./assets/birth_of_jesus/images/シーン5-2.jpeg", videoPath: "./assets/birth_of_jesus/videos/シーン5-2.mp4", placeholderImage: "..." },
@@ -1362,7 +1362,7 @@ const books = [
             { id: "6-3", is_video: true, text: "アーメン。", imagePath: "./assets/new_heaven_and_earth/videos/シーン6−3.mp4", placeholderImage: "..." }
         ]
     }
-];「おしまい」のシーンを自動追加
+]; // 「おしまい」のシーンを自動追加
 books.forEach(book => {
     if (book.scenes && book.scenes.length > 0) {
         book.scenes.push({
