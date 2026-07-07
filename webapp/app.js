@@ -130,14 +130,14 @@ const books = [
             { id: "1-4", is_video: false, text: "ノアは かみさまの おやくそくを まもって、ふねを つくりはじめました。", imagePath: "./assets/noahs_ark/images/シーン1−4.jpeg" },
             
             // セクション2: ふねをつくる
-            { id: "2-1", is_video: true, text: "トントン、カンカン。<br>ノアと かぞくは、いっしょうけんめい きを きります。", imagePath: "./assets/noahs_ark/images/シーン2−1.jpeg", videoPath: "./assets/noahs_ark/videos/シーン2−1.mp4" },
-            { id: "2-2", is_video: false, text: "まちの ひとたちは わらったけれど、ノアは とても おおきな ふねを つくりました。", imagePath: "./assets/noahs_ark/images/シーン2−2.jpeg" },
+            { id: "2-1", is_video: true, text: "トントン、カンカン。<br>ノアは ひとりで、いっしょうけんめい きを きります。", imagePath: "./assets/noahs_ark/images/シーン2−1.jpeg", videoPath: "./assets/noahs_ark/videos/シーン2−1.mp4" },
+            { id: "2-2", is_video: false, text: "まちの ひとたちや かぞくに わらわれても、ノアは とても おおきな ふねを つくりました。", imagePath: "./assets/noahs_ark/images/シーン2−2.jpeg" },
             { id: "2-3", is_video: false, text: "とうとう、はこぶねが かんせいしました！", imagePath: "./assets/noahs_ark/images/シーン2−3.jpeg" },
             
             // セクション3: どうぶつたちがやってくる
             { id: "3-1", is_video: false, text: "ふねが かんせいすると、ふしぎな ことが おきました。", imagePath: "./assets/noahs_ark/images/シーン3−1.jpeg" },
             { id: "3-2", is_video: true, text: "もりから たくさんの どうぶつたちが やってきました！", imagePath: "./assets/noahs_ark/images/シーン3−2.jpeg", videoPath: "./assets/noahs_ark/videos/シーン3−2.mp4" },
-            { id: "3-3", is_video: true, text: "ゾウさん、ライオンさん、ウサギさん。<br>みんな ２ひき ずつです。", imagePath: "./assets/noahs_ark/images/シーン3−3.jpeg", videoPath: "./assets/noahs_ark/videos/シーン3−3.mp4" },
+            { id: "3-3", is_video: true, text: "ゾウさん、ライオンさん、ウサギさん。<br>みんな、オスと メスが １ぴきずつ です。", imagePath: "./assets/noahs_ark/images/シーン3−3.jpeg", videoPath: "./assets/noahs_ark/videos/シーン3−3.mp4" },
             { id: "3-4", is_video: true, text: "チュンチュン、ことりたちも とんで きました。", imagePath: "./assets/noahs_ark/images/シーン3−4.jpeg", videoPath: "./assets/noahs_ark/videos/シーン3−4.mp4" },
             { id: "3-5", is_video: false, text: "どうぶつたちは じゅんばんに、ふねの なかへ はいります。", imagePath: "./assets/noahs_ark/images/シーン3−5.jpeg" },
             
