@@ -118,7 +118,7 @@ const books = [
     },
     {
         id: "noahs_ark",
-        title: "ノアのはこぶね",
+        title: "ノアの箱舟",
         cover: "./assets/noahs_ark/images/シーン0−1.jpeg",
         scenes: [
             { id: "0-1", is_video: true, text: "ノアのはこぶね", imagePath: "./assets/noahs_ark/images/シーン0−1.jpeg", videoPath: "./assets/noahs_ark/videos/シーン0−1.mp4" },
@@ -164,7 +164,7 @@ const books = [
     },
     {
         id: "abrahams_departure",
-        title: "アブラハムのたびだち",
+        title: "アブラハムの旅立ち",
         cover: "./assets/abrahams_departure/images/シーン0-1.jpeg",
         scenes: [
             { id: "0-1", text: "アブラハムのたびだち", imagePath: "./assets/abrahams_departure/images/シーン0-1.jpeg" },
@@ -473,7 +473,7 @@ const books = [
     },
     {
         id: "dreaming_joseph",
-        title: "ゆめみるヨセフとあにたち",
+        title: "夢見るヨセフと兄たち",
         cover: "./assets/dreaming_joseph/images/シーン0-1.jpeg",
         scenes: [
             { id: "0-1", text: "ゆめみるヨセフと<br>あにたち", imagePath: "./assets/dreaming_joseph/images/シーン0-1.jpeg", placeholderImage: "https://placehold.co/600x400/e0f7fa/006064?text=Cover" },
@@ -508,7 +508,7 @@ const books = [
     },
     {
         id: "joseph_in_egypt",
-        title: "えジプトの ヨセフ",
+        title: "エジプトのヨセフ",
         cover: "./assets/joseph_in_egypt/images/シーン0-1.jpeg",
         scenes: [
             {
@@ -710,7 +710,7 @@ const books = [
     },
     {
         "id": "josephs_reunion",
-        "title": "ヨセフと きょうだいたちの さいかい",
+        "title": "ヨセフと兄弟の再会",
         "cover": "./assets/josephs_reunion/images/シーン0−1.jpeg",
         "scenes": [
             {
@@ -879,7 +879,7 @@ const books = [
     },
     {
         id: "baby_moses",
-        title: "かごの なかの あかちゃん モーセ",
+        title: "かごの中の赤ちゃんモーセ",
         cover: "./assets/baby_moses/images/シーン0-1.jpeg",
         scenes: [
             {
@@ -1046,7 +1046,7 @@ const books = [
     },
     {
         id: "exodus",
-        title: "えじぷとからの だっしゅつ",
+        title: "エジプトからの脱出",
         cover: "./assets/exodus/images/シーン0−1.jpeg",
         scenes: [
             { id: "0-1", text: "えじぷとからの だっしゅつ", imagePath: "./assets/exodus/videos/シーン0−1.mp4", placeholderImage: "./assets/exodus/images/シーン0−1.jpeg" },
@@ -1080,7 +1080,7 @@ const books = [
     },
     {
         id: "parting_of_the_sea",
-        title: "うみが われる きせき",
+        title: "海が割れる奇跡",
         cover: "./assets/parting_of_the_sea/images/シーン0−1.jpeg",
         scenes: [
             { id: "0-1", text: "うみが われる きせき", imagePath: "./assets/parting_of_the_sea/images/シーン0−1.jpeg", placeholderImage: "https://placehold.co/800x450/e0f7fa/006064?text=Cover" },
@@ -1114,7 +1114,7 @@ const books = [
     },
     {
         id: "birth_of_jesus",
-        title: "いえすさまのおたんじょう",
+        title: "イエス様の誕生",
         cover: "./assets/birth_of_jesus/images/シーン0-1.jpeg",
         scenes: [
             { id: "0-1", text: "いえすさまの おたんじょう", imagePath: "./assets/birth_of_jesus/images/シーン0-1.jpeg", placeholderImage: "..." },
@@ -1148,7 +1148,7 @@ const books = [
     },
     {
         id: "calling_disciples",
-        title: "イエスさまと 12にんの でしたち",
+        title: "弟子たちを招く",
         cover: "./assets/calling_disciples/images/シーン0−1.jpeg",
         scenes: [
             { id: "0-1", text: "イエスさまと\n12にんの でしたち", imagePath: "./assets/calling_disciples/images/シーン0−1.jpeg", placeholderImage: "..." },
@@ -1181,7 +1181,7 @@ const books = [
     },
     {
         id: "five_loaves",
-        title: "5つの パンと 2ひきの さかな",
+        title: "5つのパンと2匹の魚",
         cover: "./assets/five_loaves/images/シーン0−1.jpeg",
         scenes: [
             { id: "0-1", text: "5つの パンと<br>2ひきの さかな", imagePath: "./assets/five_loaves/images/シーン0−1.jpeg", placeholderImage: "..." },
@@ -1216,7 +1216,7 @@ const books = [
     },
     {
         id: "good_samaritan",
-        title: "よき サマリアびと",
+        title: "善きサマリア人",
         cover: "./assets/good_samaritan/images/シーン0−1.jpeg",
         scenes: [
             { id: "0-1", text: "...", imagePath: "./assets/good_samaritan/images/シーン0−1.jpeg", placeholderImage: "..." },
@@ -1249,7 +1249,7 @@ const books = [
     },
     {
         id: "lost_sheep",
-        title: "まいごの ひつじ",
+        title: "迷子の羊",
         cover: "./assets/lost_sheep/images/シーン0-1.jpeg",
         scenes: [
             { id: "0-1", text: "まいごの ひつじ", imagePath: "./assets/lost_sheep/images/シーン0-1.jpeg", placeholderImage: "..." },
@@ -1282,7 +1282,7 @@ const books = [
     },
     {
         id: "crucifixion",
-        title: "じゅうじかと ふっかつ",
+        title: "十字架と復活",
         cover: "./assets/crucifixion/images/シーン0−1.jpeg",
         scenes: [
             { id: "0-1", text: "じゅうじかと ふっかつ", imagePath: "./assets/crucifixion/videos/シーン0−1.mp4", is_video: true, placeholderImage: "./assets/crucifixion/images/シーン0−1.jpeg" },
@@ -1315,7 +1315,7 @@ const books = [
     },
     {
         id: "ascension",
-        title: "てんに のぼる イエスさま",
+        title: "天に昇るイエス様",
         cover: "./assets/ascension/images/シーン0−1.jpeg",
         scenes: [
             { id: "0-1", text: "イエスさまが おそらに<br>のぼっていくよ。", imagePath: "./assets/ascension/images/シーン0−1.jpeg", placeholderImage: "./assets/ascension/images/シーン0−1.jpeg" },
@@ -1348,7 +1348,7 @@ const books = [
     },
     {
         id: "pentecost",
-        title: "ペンテコステの ひ",
+        title: "ペンテコステの日",
         cover: "./assets/pentecost/images/シーン0−1.jpeg",
         scenes: [
             { id: "0-1", text: "ペンテコステの ひ", is_video: false, imagePath: "./assets/pentecost/images/シーン0−1.jpeg", placeholderImage: "..." },
@@ -1382,7 +1382,7 @@ const books = [
     },
     {
         id: "new_heaven_and_earth",
-        title: "あたらしい てんと ち",
+        title: "新しい天と地",
         cover: "./assets/new_heaven_and_earth/images/シーン0−1.jpeg",
         scenes: [
             { id: "0-1", is_video: false, text: "あたらしい てんと ち", imagePath: "./assets/new_heaven_and_earth/images/シーン0−1.jpeg", placeholderImage: "..." },
