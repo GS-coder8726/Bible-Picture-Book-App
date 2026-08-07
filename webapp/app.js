@@ -1773,6 +1773,8 @@ window.addEventListener('DOMContentLoaded', () => {
     topControlsEl.classList.add('hidden');
     controlsEl.classList.add('hidden');
     progressContainerEl.classList.add('hidden');
+});
+
 // ====== UI 表示/非表示 トグル機能 ======
 const appContainerEl = document.getElementById('app-container');
 let initialHideTimeout = null;
