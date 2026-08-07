@@ -1613,6 +1613,8 @@ function openBook(bookId) {
     controlsEl.classList.remove('hidden');
     progressContainerEl.classList.remove('hidden');
 
+    startInitialUIHideTimer();
+
     if (currentBook.scenes && currentBook.scenes.length > 0) {
         // 最初の2シーンを先読み開始
         preloadNextScene(-1); // index 0を先読み
@@ -1771,32 +1773,40 @@ window.addEventListener('DOMContentLoaded', () => {
     topControlsEl.classList.add('hidden');
     controlsEl.classList.add('hidden');
     progressContainerEl.classList.add('hidden');
-});
-
-// ====== UI フェードアウト機能 ======
-let uiTimeout = null;
+// ====== UI 表示/非表示 トグル機能 ======
 const appContainerEl = document.getElementById('app-container');
+let initialHideTimeout = null;
 
-function resetUITimeout() {
+// 絵本を開いた直後に一度だけ自動で隠すタイマーを開始する関数
+function startInitialUIHideTimer() {
     appContainerEl.classList.remove('ui-hidden');
-    if (uiTimeout) {
-        clearTimeout(uiTimeout);
+    if (initialHideTimeout) {
+        clearTimeout(initialHideTimeout);
     }
-    // 絵本を開いている時のみ、3秒後にUIを隠す
-    if (currentBook) {
-        uiTimeout = setTimeout(() => {
-            appContainerEl.classList.add('ui-hidden');
-        }, 3000);
-    }
+    initialHideTimeout = setTimeout(() => {
+        appContainerEl.classList.add('ui-hidden');
+    }, 3000);
 }
 
 function clearUITimeout() {
-    if (uiTimeout) {
-        clearTimeout(uiTimeout);
+    if (initialHideTimeout) {
+        clearTimeout(initialHideTimeout);
     }
     appContainerEl.classList.remove('ui-hidden');
 }
 
-['mousemove', 'mousedown', 'touchstart', 'keydown'].forEach(evt => {
-    window.addEventListener(evt, resetUITimeout, { passive: true });
+// 絵本の画面中央をクリック/タップした時にUIをトグルする
+bookContainer.addEventListener('click', (e) => {
+    // 操作ボタンやテキストエリアを押した場合は反応させない
+    if (e.target.closest('.controls') || e.target.closest('#top-controls') || e.target.closest('#header') || e.target.closest('.glass-panel')) {
+        return;
+    }
+    
+    // 手動でタップした場合は自動隠しタイマーをキャンセル
+    if (initialHideTimeout) {
+        clearTimeout(initialHideTimeout);
+    }
+    
+    // UIの表示/非表示を切り替え
+    appContainerEl.classList.toggle('ui-hidden');
 });
