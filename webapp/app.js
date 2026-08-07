@@ -1634,6 +1634,7 @@ function openBook(bookId) {
 function closeBook() {
     currentBook = null;
     currentSceneIndex = 0;
+    clearUITimeout();
 
     // UI切り替え
     bookContainer.classList.add('hidden');
@@ -1770,4 +1771,32 @@ window.addEventListener('DOMContentLoaded', () => {
     topControlsEl.classList.add('hidden');
     controlsEl.classList.add('hidden');
     progressContainerEl.classList.add('hidden');
+});
+
+// ====== UI フェードアウト機能 ======
+let uiTimeout = null;
+const appContainerEl = document.getElementById('app-container');
+
+function resetUITimeout() {
+    appContainerEl.classList.remove('ui-hidden');
+    if (uiTimeout) {
+        clearTimeout(uiTimeout);
+    }
+    // 絵本を開いている時のみ、3秒後にUIを隠す
+    if (currentBook) {
+        uiTimeout = setTimeout(() => {
+            appContainerEl.classList.add('ui-hidden');
+        }, 3000);
+    }
+}
+
+function clearUITimeout() {
+    if (uiTimeout) {
+        clearTimeout(uiTimeout);
+    }
+    appContainerEl.classList.remove('ui-hidden');
+}
+
+['mousemove', 'mousedown', 'touchstart', 'keydown'].forEach(evt => {
+    window.addEventListener(evt, resetUITimeout, { passive: true });
 });

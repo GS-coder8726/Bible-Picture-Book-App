@@ -713,3 +713,16 @@ video.scene-image {
     }
 }
 
+/* ====== UIフェードアウト機能 ====== */
+#app-container.ui-hidden #header,
+#app-container.ui-hidden #top-controls,
+#app-container.ui-hidden .controls,
+#app-container.ui-hidden .progress-bar-container {
+    opacity: 0;
+    pointer-events: none;
+}
+
+#header, #top-controls, .controls, .progress-bar-container {
+    transition: opacity 0.5s ease-in-out;
+}
+
