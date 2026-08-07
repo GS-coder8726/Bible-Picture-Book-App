@@ -564,7 +564,7 @@ video.scene-image {
 }
 
 /* ====== レスポンシブ ====== */
-@media (max-width: 600px) {
+@media (max-width: 768px) {
     .bookshelf-title {
         font-size: 2rem;
     }
@@ -582,24 +582,101 @@ video.scene-image {
         font-size: 1rem;
     }
     #scene-text {
-        font-size: 1rem;
+        font-size: 1.1rem;
     }
-    .glass-panel {
-        padding: 40px 15px 30px 15px;
+    
+    .sparkle { display: none; }
+    .cloud { display: none; }
+    
+    .nav-btn {
+        width: 56px;
+        height: 56px;
+        background: rgba(255, 159, 67, 0.9);
+        border: none;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    }
+}
+
+/* スマホ縦画面（Portrait）向けのレイアウト（案C: 上下分割） */
+@media (max-width: 768px) and (orientation: portrait) {
+    #book-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+    }
+    
+    .scene-image {
+        position: relative;
         width: 100%;
-        left: 0;
-        bottom: 0;
+        height: 45vh; /* 上部45%を映像エリアに */
+        object-fit: contain; /* 見切れ防止 */
+        background-size: contain;
+        background-position: center bottom;
+        transform: none; /* 拡大をリセット */
+        background-color: #000; /* 余白を黒にするなど映像に合わせる */
+    }
+
+    video.scene-image {
+        height: 45vh;
+        object-fit: contain;
+        transform: none;
+        background-color: #000;
+    }
+
+    .glass-panel {
+        position: relative;
+        width: 100%;
+        height: 55vh; /* 下部55%をテキスト・操作エリアに */
+        padding: 30px 15px 80px 15px; /* 下部にボタン用の余白 */
+        background: #ffffff;
         border: none;
         border-radius: 0;
         box-shadow: none;
+        color: var(--text-color);
+        text-shadow: none;
+        overflow-y: auto;
     }
-    .sparkle { display: none; }
-    .cloud { display: none; }
+    
+    /* 縦画面時はセリフの背景を白っぽくして文字を暗くする */
+    .sentence {
+        background: rgba(245, 245, 250, 0.9);
+        color: var(--text-color);
+        border: 1px solid rgba(0, 0, 0, 0.05);
+        text-shadow: none;
+    }
+
+    .controls {
+        bottom: 25px; /* ボタンを押しやすい位置に */
+        padding: 0 15px;
+    }
+    
+    #top-controls {
+        top: 10px;
+        right: 10px;
+        flex-direction: column;
+        gap: 8px;
+    }
+
+    .toggle-btn {
+        padding: 6px 12px;
+        font-size: 0.8rem;
+    }
+    
+    #header {
+        top: 10px;
+        left: 10px;
+    }
+    
+    .small-btn {
+        padding: 6px 12px;
+        font-size: 0.8rem;
+    }
 }
 
-@media (min-width: 601px) and (max-width: 900px) {
+@media (min-width: 769px) and (max-width: 1024px) {
     .books-grid {
         grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
         gap: 20px;
     }
 }
+
