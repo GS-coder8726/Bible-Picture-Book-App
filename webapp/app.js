@@ -1637,6 +1637,9 @@ function closeBook() {
     currentBook = null;
     currentSceneIndex = 0;
     clearUITimeout();
+    if (typeof appContainerEl !== 'undefined' && appContainerEl) {
+        appContainerEl.classList.remove('ui-hidden');
+    }
 
     // UI切り替え
     bookContainer.classList.add('hidden');
@@ -1768,6 +1771,10 @@ function handleSwipe() {
 window.addEventListener('DOMContentLoaded', () => {
     renderBookshelf();
     // デフォルトで本棚を表示するため、他のUIを隠しておく
+    if (typeof appContainerEl !== 'undefined' && appContainerEl) {
+        appContainerEl.classList.remove('ui-hidden');
+    }
+    bookshelfContainer.classList.remove('hidden');
     bookContainer.classList.add('hidden');
     headerEl.classList.add('hidden');
     topControlsEl.classList.add('hidden');
