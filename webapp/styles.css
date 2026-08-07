@@ -680,3 +680,36 @@ video.scene-image {
     }
 }
 
+/* スマホ横画面（Landscape）向けのレイアウト（見切れ防止） */
+@media (max-height: 600px) and (orientation: landscape) {
+    .scene-image {
+        background-size: contain;
+        background-color: #000;
+        transform: none; /* scale(1.02)を解除 */
+    }
+    video.scene-image {
+        object-fit: contain;
+        background-color: #000;
+        transform: none;
+    }
+    
+    /* 横画面は高さが非常に狭いため、テキストパネルを少しコンパクトに */
+    .glass-panel {
+        padding: 15px 50px 15px 50px;
+    }
+    #scene-text {
+        font-size: 1rem;
+    }
+    .sentence {
+        margin: 4px auto;
+        padding: 4px 12px;
+    }
+    .nav-btn {
+        width: 44px;
+        height: 44px;
+    }
+    .controls {
+        bottom: 10px;
+    }
+}
+
